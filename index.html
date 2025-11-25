@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base de Conhecimento: Frieren</title>
+</head>
+<body>
+    <header>
+        <h1>Conheça o Universo de Frieren</h1>
+        <div>
+            <input type="text" placeholder="Busque por personagem, episódio, conceito...">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+        <nav class="filtros">
+            <button class="filtro-btn" data-tipo="todos">Todos</button>
+            <button class="filtro-btn" data-tipo="Personagem">Personagens</button>
+            <button class="filtro-btn" data-tipo="Episódio">Episódios</button>
+            <button class="filtro-btn" data-tipo="Demônio">Demônios</button>
+            <button class="filtro-btn" data-tipo="Filosofia">Filosofia</button>
+            <button class="filtro-btn" data-tipo="Conceito">Conceitos</button>
+            <button class="filtro-btn" data-tipo="Local">Locais</button>
+            <button class="filtro-btn" data-tipo="Organização">Organizações</button>
+            <button class="filtro-btn" data-tipo="Evento">Eventos</button>
+        </nav>
+    </header>
+
+    <main>
+        <section class="card-container">
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/angellgunn">Github</a>
+            </li>
+            <li>
+                <a href="https://frieren-anime.jp/character/">Toho</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
