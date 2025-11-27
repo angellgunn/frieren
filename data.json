@@ -2,9 +2,9 @@
     {
         "titulo": "Frieren",
         "tipo": "Personagem",
-        "descricao": "Uma maga elfa que fez parte do grupo de heróis que derrotou o Rei Demônio. Devido à sua longa vida, sua percepção do tempo é drasticamente diferente da dos humanos, o que a leva a uma jornada para entender melhor as pessoas que amou e perdeu.",
+        "descricao": "Uma maga elfa que fez parte do grupo de heróis que derrotou o Rei Demônio. Devido à sua longa vida, sua percepção do tempo é drasticamente diferente da dos humanos, o que a leva a uma jornada para entender melhor as pessoas que amou e perdeu. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
         "tags": ["elfa", "maga", "grupo do herói", "protagonista"],
-        "relacionados": ["Himmel", "Eisen", "Heiter", "Fern"],
+        "relacionados": ["Himmel", "Eisen", "Heiter", "Fern", "Stark", "Flamme", "Serie"],
         "fontes": [
             {
                 "nome": "Frieren Wiki (EN)",
@@ -21,7 +21,7 @@
     {
         "titulo": "Himmel",
         "tipo": "Personagem",
-        "descricao": "O herói humano do grupo que derrotou o Rei Demônio. Apesar de sua morte ocorrer antes do início da história principal, sua influência e suas memórias são o principal catalisador para a jornada de Frieren. Era vaidoso, mas profundamente gentil e heróico.",
+        "descricao": "O herói humano do grupo que derrotou o Rei Demônio. Apesar de sua morte ocorrer antes do início da história principal, sua influência e suas memórias são o principal catalisador para a jornada de Frieren. Era vaidoso, mas profundamente gentil e heróico. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
         "tags": ["humano", "herói", "grupo do herói"],
         "relacionados": ["Frieren", "Eisen", "Heiter"],
         "fontes": [
@@ -63,7 +63,7 @@
     {
         "titulo": "Fern",
         "tipo": "Personagem",
-        "descricao": "Uma maga humana, aprendiz de Heiter e posteriormente de Frieren. Órfã de guerra, foi acolhida por Heiter. É uma maga talentosa e pragmática, que age como uma figura materna e cuidadora para Frieren em sua jornada, apesar de ser muito mais jovem.",
+        "descricao": "Uma maga humana, aprendiz de Heiter e posteriormente de Frieren. Órfã de guerra, foi acolhida por Heiter. É uma maga talentosa e pragmática, que age como uma figura materna para Frieren em sua jornada, apesar de ser muito mais jovem. Primeira aparição: Mangá Capítulo 2, Anime Episódio 1.",
         "tags": ["humana", "maga", "aprendiz"],
         "relacionados": ["Frieren", "Heiter", "Stark"],
         "fontes": [
@@ -82,7 +82,7 @@
     {
         "titulo": "Stark",
         "tipo": "Personagem",
-        "descricao": "Um jovem guerreiro humano, aprendiz de Eisen. Apesar de sua imensa força, ele é extremamente medroso e covarde, mas consegue superar seus medos para proteger os outros. Junta-se a Frieren e Fern em sua jornada.",
+        "descricao": "Um jovem guerreiro humano, aprendiz de Eisen. Apesar de sua imensa força, ele é extremamente medroso, mas consegue superar seus medos para proteger os outros. Junta-se a Frieren e Fern em sua jornada. Primeira aparição: Mangá Capítulo 11, Anime Episódio 5.",
         "tags": ["humano", "guerreiro", "aprendiz"],
         "relacionados": ["Frieren", "Fern", "Eisen"],
         "fontes": [
@@ -101,7 +101,7 @@
     {
         "titulo": "Eisen",
         "tipo": "Personagem",
-        "descricao": "Um guerreiro anão e membro do grupo de heróis original. Conhecido por sua incrível resistência e força. Assim como Frieren, ele tem uma vida mais longa que a dos humanos, mas sua percepção do tempo e da mortalidade é diferente da dela. Ele confia a Frieren o treinamento de seu aprendiz, Stark.",
+        "descricao": "Um guerreiro anão e membro do grupo de heróis original. Conhecido por sua incrível resistência e força. Assim como Frieren, ele tem uma vida mais longa que a dos humanos, mas sua percepção do tempo é diferente da dela. Ele confia a Frieren o treinamento de seu aprendiz, Stark. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
         "tags": ["anão", "guerreiro", "grupo do herói"],
         "relacionados": ["Frieren", "Himmel", "Heiter", "Stark"],
         "fontes": [
@@ -120,7 +120,7 @@
     {
         "titulo": "Heiter",
         "tipo": "Personagem",
-        "descricao": "O sacerdote humano do grupo de heróis. Era conhecido por seu gosto por álcool, mas também por sua profunda sabedoria e compaixão. Antes de morrer, ele acolhe a órfã de guerra Fern e pede a Frieren que a tome como aprendiz de maga.",
+        "descricao": "O sacerdote humano do grupo de heróis. Era conhecido por seu gosto por álcool, mas também por sua profunda sabedoria e compaixão. Antes de morrer, ele acolhe a órfã de guerra Fern e pede a Frieren que a tome como aprendiz. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
         "tags": ["humano", "sacerdote", "grupo do herói"],
         "relacionados": ["Frieren", "Himmel", "Eisen", "Fern"],
         "fontes": [],
@@ -134,7 +134,7 @@
     {
         "titulo": "Flamme",
         "tipo": "Personagem",
-        "descricao": "A lendária maga humana que foi mentora de Frieren e é considerada a pioneira das artes mágicas da humanidade. Mil anos antes da história atual, ela ensinou a Frieren a importância de suprimir sua mana para enganar os demônios, uma tática crucial para a sobrevivência.",
+        "descricao": "A lendária maga humana que foi mentora de Frieren e é considerada a pioneira das artes mágicas da humanidade. Mil anos antes da história atual, ela ensinou a Frieren a importância de suprimir sua mana para enganar os demônios. Primeira aparição: Mangá Capítulo 10 (flashback), Anime Episódio 4 (flashback).",
         "tags": ["humana", "maga", "mentora", "lenda"],
         "relacionados": ["Frieren", "Serie"],
         "fontes": [
@@ -153,7 +153,7 @@
     {
         "titulo": "Sein",
         "tipo": "Personagem",
-        "descricao": "Um talentoso sacerdote de aldeia que se junta temporariamente ao grupo de Frieren. Apesar de suas habilidades, ele possui vários vícios, como amor por álcool, cigarro, jogos de azar e mulheres mais velhas. Ele parte em busca de seu amigo de infância, o 'Guerreiro Gorila'.",
+        "descricao": "Um talentoso sacerdote de aldeia que se junta temporariamente ao grupo de Frieren. Apesar de suas habilidades, ele possui vários vícios, como amor por álcool, cigarro e jogos de azar. Ele parte em busca de seu amigo de infância, o 'Guerreiro Gorila'. Primeira aparição: Mangá Capítulo 27, Anime Episódio 13.",
         "tags": ["humano", "sacerdote", "vicios"],
         "relacionados": ["Frieren", "Fern", "Stark", "Guerreiro Gorila"],
         "fontes": [],
@@ -167,9 +167,9 @@
     {
         "titulo": "Aura, a Guilhotina",
         "tipo": "Demônio",
-        "descricao": "Uma dos Sete Sábios da Destruição, servindo diretamente ao Rei Demônio. Sua magia, Aschenputtel, permite que ela controle aqueles com mana inferior à sua através de sua balança da obediência. Ela entra em um confronto direto com Frieren, subestimando a verdadeira extensão do poder da elfa.",
+        "descricao": "Uma dos Sete Sábios da Destruição, servindo diretamente ao Rei Demônio. Sua magia, Aschenputtel, permite que ela controle aqueles com mana inferior à sua através de sua balança da obediência. Ela entra em um confronto direto com Frieren, subestimando o poder da elfa. Primeira aparição: Mangá Capítulo 17, Anime Episódio 8.",
         "tags": ["demônio", "Sete Sábios da Destruição", "Aschenputtel"],
-        "relacionados": ["Frieren", "Lügner", "Linie"],
+        "relacionados": ["Frieren", "Lügner", "Linie", "Rei Demônio"],
         "fontes": [],
         "imagens": [
             {
@@ -181,7 +181,7 @@
     {
         "titulo": "Lügner",
         "tipo": "Demônio",
-        "descricao": "Um demônio servindo sob o comando de Aura. Ele se infiltra em uma cidade humana disfarçado de 'enviado da paz' para enfraquecer suas defesas. É um demônio eloquente que usa palavras para manipular, mas é confrontado e derrotado por Fern.",
+        "descricao": "Um demônio servindo sob o comando de Aura. Ele se infiltra em uma cidade humana disfarçado de 'enviado da paz' para enfraquecer suas defesas. É um demônio eloquente que usa palavras para manipular, mas é confrontado e derrotado por Fern. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
         "tags": ["demônio", "manipulador", "magia de sangue"],
         "relacionados": ["Aura, a Guilhotina", "Fern", "Linie"],
         "fontes": [],
@@ -195,7 +195,7 @@
     {
         "titulo": "Linie",
         "tipo": "Demônio",
-        "descricao": "Uma assistente de Lügner, especializada em ler o mana de seus oponentes para copiar perfeitamente seus movimentos e técnicas de combate. Ela enfrenta Stark em um duelo, onde sua habilidade de imitar mana é posta à prova contra a força bruta e a resiliência do guerreiro.",
+        "descricao": "Uma assistente de Lügner, especializada em ler o mana de seus oponentes para copiar perfeitamente seus movimentos e técnicas de combate. Ela enfrenta Stark em um duelo, onde sua habilidade de imitar mana é posta à prova contra a força bruta do guerreiro. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
         "tags": ["demônio", "imitação de mana", "combate"],
         "relacionados": ["Aura, a Guilhotina", "Lügner", "Stark"],
         "fontes": [],
@@ -209,7 +209,7 @@
     {
         "titulo": "Zoltraak",
         "tipo": "Conceito",
-        "descricao": "Uma poderosa magia ofensiva desenvolvida pelos demônios, originalmente conhecida como 'magia para matar humanos'. Após ser decifrada e analisada por magos humanos, foi adaptada e sistematizada, tornando-se o feitiço de ataque padrão para a humanidade, agora chamada de 'magia ofensiva comum'. Frieren e Fern são mestras em seu uso.",
+        "descricao": "Uma poderosa magia ofensiva desenvolvida pelos demônios, originalmente conhecida como 'magia para matar humanos'. Após ser decifrada e analisada por magos humanos, foi adaptada e sistematizada, tornando-se o feitiço de ataque padrão para a humanidade. Frieren e Fern são mestras em seu uso.",
         "tags": ["magia", "magia ofensiva", "demônios", "humanos"],
         "relacionados": ["Frieren", "Fern", "Qual"],
         "fontes": [],
@@ -229,16 +229,16 @@
         "tipo": "Evento",
         "descricao": "Uma série de testes desafiadores administrados pela Associação Continental de Magos para selecionar os magos mais promissores. O exame é dividido em várias etapas, testando não apenas o poder mágico, mas também o trabalho em equipe, a estratégia e a filosofia do candidato. Fern participa deste exame.",
         "tags": ["exame", "magia", "competição"],
-        "relacionados": ["Fern", "Serie", "Genau", "Sense"],
+        "relacionados": ["Fern", "Serie", "Genau", "Sense", "Denken", "Übel"],
         "fontes": [],
         "imagens": []
     },
     {
         "titulo": "Serie",
         "tipo": "Personagem",
-        "descricao": "Uma maga elfa ancestral que vive desde a era mítica. Ela foi a mentora de Flamme e é a fundadora da Associação Continental de Magos. Possui um poder mágico imensurável e uma perspectiva pragmática e, por vezes, fria sobre a magia e os magos.",
+        "descricao": "Uma maga elfa ancestral que vive desde a era mítica. Ela foi a mentora de Flamme e é a fundadora da Associação Continental de Magos. Possui um poder mágico imensurável e uma perspectiva pragmática e fria sobre a magia e os magos. Primeira aparição: Mangá Capítulo 37, Anime Episódio 17.",
         "tags": ["elfa", "maga", "lenda viva", "Associação Continental de Magos"],
-        "relacionados": ["Flamme", "Frieren", "Fern"],
+        "relacionados": ["Flamme", "Frieren", "Fern", "Genau", "Sense"],
         "fontes": [],
         "imagens": [
             {
@@ -250,9 +250,9 @@
     {
         "titulo": "Denken",
         "tipo": "Personagem",
-        "descricao": "Um mago imperial veterano e participante do Exame de Maga de Primeira Classe. Apesar de sua idade avançada, ele é um combatente astuto e poderoso, com um forte senso de dever e um passado ligado a conflitos com demônios. Ele desenvolve um respeito mútuo por Frieren e seu grupo.",
+        "descricao": "Um mago imperial veterano e participante do Exame de Maga de Primeira Classe. Apesar de sua idade avançada, ele é um combatente astuto e poderoso, com um forte senso de dever e um passado ligado a conflitos com demônios. Ele desenvolve um respeito mútuo por Frieren. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["mago imperial", "veterano", "exame"],
-        "relacionados": ["Laufen", "Richter", "Frieren"],
+        "relacionados": ["Laufen", "Richter", "Frieren", "Fern"],
         "fontes": [],
         "imagens": [
             {
@@ -264,9 +264,9 @@
     {
         "titulo": "Übel",
         "tipo": "Personagem",
-        "descricao": "Uma maga talentosa e participante do Exame de Maga de Primeira Classe, conhecida por sua magia de corte, Reelseiden, que pode cortar quase qualquer coisa. Ela tem uma personalidade excêntrica e uma empatia peculiar, que lhe permite entender e usar magias de outros magos.",
+        "descricao": "Uma maga talentosa e participante do Exame de Maga de Primeira Classe, conhecida por sua magia de corte, Reelseiden. Ela tem uma personalidade excêntrica e uma empatia peculiar, que lhe permite entender e usar magias de outros magos. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["maga", "exame", "magia de corte"],
-        "relacionados": ["Land", "Wirbel"],
+        "relacionados": ["Land", "Wirbel", "Genau"],
         "fontes": [],
         "imagens": [
             {
@@ -278,9 +278,9 @@
     {
         "titulo": "Wirbel",
         "tipo": "Personagem",
-        "descricao": "Um mago de segunda classe e capitão do Corpo de Magos do Norte. Ele é um especialista em combate com vasta experiência em batalhas reais contra demônios. Participa do exame para se tornar um mago de primeira classe e lidera um dos grupos na primeira etapa.",
+        "descricao": "Um mago de segunda classe e capitão do Corpo de Magos do Norte. Ele é um especialista em combate com vasta experiência em batalhas reais contra demônios. Participa do exame para se tornar um mago de primeira classe e lidera um dos grupos na primeira etapa. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["mago", "capitão", "exame", "combate"],
-        "relacionados": ["Übel", "Ehre"],
+        "relacionados": ["Übel", "Ehre", "Frieren", "Fern"],
         "fontes": [],
         "imagens": [
             {
@@ -368,7 +368,7 @@
         "fontes": [],
         "imagens": []
     },
-{
+    {
         "titulo": "Staff e Produção",
         "tipo": "Produção",
         "descricao": "Baseada no mangá escrito por Kanehito Yamada e ilustrado por Tsukasa Abe. Adaptação para anime: estúdio Madhouse, direção de Keiichiro Saito. A composição da série ficou a cargo de Tomohiro Suzuki e o design de personagens por Reiko Nagasawa. A trilha sonora é de Evan Call. A produção do anime é da TOHO animation.",
@@ -386,9 +386,9 @@
         ],
         "imagens": []
     },
-{
+    {
         "titulo": "Elenco de Voz e Versão em Português do Brasil",
-        "tipo": "Dublagem",
+        "tipo": "Produção",
         "descricao": "O elenco de voz japonês (seiyuu) de 'Frieren e a Jornada para o Além' é composto por talentos notáveis que dão vida aos personagens. Atsumi Tanezaki interpreta Frieren, Kana Ichinose é Fern, Chiaki Kobayashi dá voz a Stark, e Nobuhiko Okamoto é Himmel. Outros membros importantes incluem Hiroki Touchi como Heiter, Yoji Ueda como Eisen, Atsuko Tanaka como Flamme e Aya Hisakawa como Serie. A série está disponível com legendas e dublagem oficial em português do Brasil através da plataforma Crunchyroll, permitindo que o público lusófono desfrute da história com alta qualidade.",
         "tags": ["dublagem", "seiyuu", "atores de voz", "português", "japonês", "Crunchyroll"],
         "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen", "Flamme", "Serie"],
@@ -403,5 +403,256 @@
             }
         ],
         "imagens": []
+    },
+    {
+        "titulo": "Kanehito Yamada",
+        "tipo": "Equipe",
+        "descricao": "Kanehito Yamada é o roteirista e criador da história original do mangá 'Frieren'. Antes de seu grande sucesso com Frieren, ele foi premiado com o 'Manga Taishō New Creator Prize' por sua obra 'Bocchi Hakase to Robot Shoujo no Zetsubou Teki Utopia'. Seu estilo de escrita é marcado pela profundidade emocional e exploração de temas existenciais.",
+        "tags": ["autor", "mangá", "roteirista"],
+        "relacionados": ["Tsukasa Abe", "Shogakukan", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (JA)",
+                "url": "https://ja.wikipedia.org/wiki/山田鐘人"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Tsukasa Abe",
+        "tipo": "Equipe",
+        "descricao": "Tsukasa Abe é o artista responsável pela ilustração do mangá 'Frieren'. Sendo este seu primeiro trabalho de grande serialização, seu traço detalhado e expressivo foi fundamental para definir a identidade visual da obra, capturando perfeitamente a atmosfera melancólica e a beleza do mundo de Frieren.",
+        "tags": ["autor", "mangá", "ilustrador"],
+        "relacionados": ["Kanehito Yamada", "Shogakukan", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (JA)",
+                "url": "https://ja.wikipedia.org/wiki/アベツカサ"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Shogakukan",
+        "tipo": "Produção",
+        "descricao": "A Shogakukan é uma das maiores editoras do Japão, responsável pela publicação original do mangá 'Frieren' na revista Weekly Shōnen Sunday. A revista é histórica e já publicou obras de renome como 'Inuyasha' e 'Detective Conan'. A editora desempenha um papel crucial na curadoria e promoção da obra no mercado japonês.",
+        "tags": ["editora", "japão", "mangá"],
+        "relacionados": ["Kanehito Yamada", "Tsukasa Abe", "Editoras Internacionais"],
+        "fontes": [
+            {
+                "nome": "Site Oficial da Shogakukan",
+                "url": "https://www.shogakukan.co.jp/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Editoras Internacionais",
+        "tipo": "Produção",
+        "descricao": "O mangá de 'Frieren' foi licenciado para publicação em diversos países. No Brasil, a Panini Comics (através do selo Panini Mangá) é a responsável pela distribuição. Nos Estados Unidos, a Viz Media publica a obra sob o selo Viz Signature, voltado para um público mais maduro. Essas parcerias são essenciais para que a obra alcance um público global.",
+        "tags": ["editora", "internacional", "licenciamento"],
+        "relacionados": ["Shogakukan"],
+        "fontes": [
+            {
+                "nome": "Panini Brasil",
+                "url": "https://www.panini.com.br/"
+            },
+            {
+                "nome": "Viz Media",
+                "url": "https://www.viz.com/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Trilha Sonora de Frieren",
+        "tipo": "Produção",
+        "descricao": "Composta por Evan Call, a trilha sonora do anime é amplamente elogiada por capturar a essência da série. Além da música instrumental, a produção se destaca pelos temas de abertura e encerramento. A primeira abertura, 'Yuusha' da dupla YOASOBI, tornou-se um sucesso global. O encerramento, 'Anytime Anywhere' da cantora milet, complementa o tom melancólico e esperançoso da jornada.",
+        "tags": ["anime", "trilha sonora", "evan call"],
+        "relacionados": ["Evan Call", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Site Oficial - Música",
+                "url": "https://frieren-anime.jp/music/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Evan Call",
+        "tipo": "Equipe",
+        "descricao": "Evan Call é um compositor americano conhecido por seu trabalho em diversas trilhas sonoras de animes. Antes de 'Frieren', ele ganhou notoriedade por compor para séries aclamadas como 'Violet Evergarden' e 'My Happy Marriage'. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual.",
+        "tags": ["compositor", "trilha sonora", "anime"],
+        "relacionados": ["Trilha Sonora de Frieren", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (EN)",
+                "url": "https://en.wikipedia.org/wiki/Evan_Call"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Keiichiro Saito",
+        "tipo": "Equipe",
+        "descricao": "Keiichiro Saito é o diretor da adaptação para anime de 'Frieren'. Ele ganhou grande reconhecimento na indústria por seu trabalho anterior como diretor de 'Bocchi the Rock!', onde demonstrou uma criatividade visual única e uma direção sensível. Em Frieren, sua abordagem cinematográfica e o foco na sutileza das emoções foram cruciais para o sucesso da adaptação.",
+        "tags": ["diretor", "anime", "Bocchi the Rock!"],
+        "relacionados": ["Staff e Produção", "Equipe de Animação Principal"],
+        "fontes": [
+            {
+                "nome": "Anime News Network",
+                "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=144985"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Equipe de Animação Principal",
+        "tipo": "Equipe",
+        "descricao": "A qualidade visual do anime de 'Frieren' é resultado do trabalho de uma equipe talentosa. Reiko Nagasawa, como designer de personagens, adaptou o traço de Tsukasa Abe para a animação. Tomohiro Suzuki foi o responsável pela composição da série, estruturando o roteiro dos episódios. A direção de arte de Sawako Takagi criou os cenários deslumbrantes, enquanto a direção de fotografia de Akane Fushihara capturou a atmosfera melancólica e épica da jornada.",
+        "tags": ["animação", "design de personagens", "roteiro", "direção de arte"],
+        "relacionados": ["Keiichiro Saito", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Site Oficial - Staff/Cast",
+                "url": "https://frieren-anime.jp/staffcast/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Estúdio Madhouse",
+        "tipo": "Produção",
+        "descricao": "O Estúdio Madhouse é um dos mais renomados estúdios de animação do Japão, fundado em 1972 por ex-animadores da Mushi Pro. Conhecido por sua alta qualidade de produção e por adaptar obras com temas complexos e maduros, o estúdio foi responsável por animes icônicos como 'Death Note', 'Hunter x Hunter (2011)', 'One-Punch Man (1ª Temporada)' e 'Perfect Blue'. A escolha do Madhouse para 'Frieren' foi celebrada pelos fãs, e o resultado final é um testemunho de sua excelência em animação, direção e fidelidade à atmosfera da obra original.",
+        "tags": ["estúdio", "anime", "animação", "Madhouse", "Death Note", "Hunter x Hunter"],
+        "relacionados": ["Staff e Produção", "Keiichiro Saito", "Equipe de Animação Principal"],
+        "fontes": [
+            {
+                "nome": "Site Oficial do Madhouse",
+                "url": "https://www.madhouse.co.jp/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Qual",
+        "tipo": "Demônio",
+        "descricao": "Um antigo Sábio da Destruição que serviu ao Rei Demônio. Ele foi o criador da 'Magia para Matar Humanos' (Zoltraak). Foi selado por Frieren e o grupo do herói durante sua jornada original. Décadas depois, o selo enfraquece e ele é confrontado por Frieren e Fern. Primeira aparição: Mangá Capítulo 4 (flashback), Anime Episódio 2 (flashback).",
+        "tags": ["demônio", "Sete Sábios da Destruição", "Zoltraak"],
+        "relacionados": ["Zoltraak", "Frieren", "Rei Demônio"],
+        "fontes": [],
+        "imagens": []
+    },
+    {
+        "titulo": "Genau",
+        "tipo": "Personagem",
+        "descricao": "Um mago de primeira classe e um dos examinadores do Exame de Maga de Primeira Classe, trabalhando sob a supervisão de Serie. Ele é sério, pragmático e extremamente habilidoso, agindo como um guardião na primeira etapa do exame. Primeira aparição: Mangá Capítulo 37, Anime Episódio 18.",
+        "tags": ["mago de primeira classe", "exame", "examinador"],
+        "relacionados": ["Serie", "Sense", "Fern", "Übel"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara11_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Sense",
+        "tipo": "Personagem",
+        "descricao": "Uma maga de primeira classe e a examinadora responsável pela segunda etapa do Exame de Maga de Primeira Classe. Ela tem uma personalidade calma e indiferente, e projeta um desafio em uma masmorra (dungeon) que testa a capacidade de análise e sobrevivência dos candidatos. Primeira aparição: Mangá Capítulo 44, Anime Episódio 21.",
+        "tags": ["maga de primeira classe", "exame", "examinadora"],
+        "relacionados": ["Serie", "Genau", "Frieren", "Fern"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara10_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Laufen",
+        "tipo": "Personagem",
+        "descricao": "Uma jovem maga que participa do Exame de Maga de Primeira Classe. Ela faz parte do grupo de Denken. É rápida e especializada em magia de movimento. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
+        "tags": ["maga", "exame"],
+        "relacionados": ["Denken", "Richter"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara08_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Richter",
+        "tipo": "Personagem",
+        "descricao": "Um mago poderoso e pragmático que participa do Exame de Maga de Primeira Classe, formando um grupo com Denken e Laufen. Ele é especialista em magia de terra. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
+        "tags": ["mago", "exame", "magia de terra"],
+        "relacionados": ["Denken", "Laufen"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara07_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Land",
+        "tipo": "Personagem",
+        "descricao": "Um mago que participa do Exame de Maga de Primeira Classe. Ele se junta ao grupo de Übel. É especialista em criar clones perfeitos de si mesmo, o que o torna um adversário confuso e evasivo. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
+        "tags": ["mago", "exame", "clones"],
+        "relacionados": ["Übel"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara06_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Lawine",
+        "tipo": "Personagem",
+        "descricao": "Uma maga que participa do Exame de Maga de Primeira Classe. Ela tem uma rivalidade de longa data com sua parceira de equipe, Kanne, mas as duas trabalham bem juntas. É especialista em magia de gelo. Primeira aparição: Mangá Capítulo 38, Anime Episódio 18.",
+        "tags": ["maga", "exame", "magia de gelo"],
+        "relacionados": ["Kanne", "Wirbel"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara02_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Kanne",
+        "tipo": "Personagem",
+        "descricao": "Uma maga que participa do Exame de Maga de Primeira Classe. Ela é parceira de Lawine, com quem tem uma relação de amor e ódio. Sua especialidade é a magia de controle de água, que se torna extremamente poderosa quando chove. Primeira aparição: Mangá Capítulo 38, Anime Episódio 18.",
+        "tags": ["maga", "exame", "magia de água"],
+        "relacionados": ["Lawine", "Wirbel"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara01_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Ehre",
+        "tipo": "Personagem",
+        "descricao": "Uma maga que participa do Exame de Maga de Primeira Classe, fazendo parte do grupo de Wirbel. Ela é orgulhosa de sua formação como maga de uma família nobre. Primeira aparição: Mangá Capítulo 41, Anime Episódio 19.",
+        "tags": ["maga", "exame", "nobreza"],
+        "relacionados": ["Wirbel"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara09_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
     }
 ]
