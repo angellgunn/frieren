@@ -407,7 +407,7 @@
     {
         "titulo": "Kanehito Yamada",
         "tipo": "Equipe",
-        "descricao": "Kanehito Yamada é o roteirista e criador da história original do mangá 'Frieren'. Antes de seu grande sucesso com Frieren, ele foi premiado com o 'Manga Taishō New Creator Prize' por sua obra 'Bocchi Hakase to Robot Shoujo no Zetsubou Teki Utopia'. Seu estilo de escrita é marcado pela profundidade emocional e exploração de temas existenciais.",
+        "descricao": "Kanehito Yamada (山田鐘人) é a roteirista e criadora da história original do mangá 'Frieren'. Antes de seu grande sucesso com Frieren, ela foi premiada com o 'Manga Taishō New Creator Prize' por sua obra 'Bocchi Hakase to Robot Shoujo no Zetsubou Teki Utopia'. Seu estilo de escrita é marcado pela profundidade emocional e exploração de temas existenciais.",
         "tags": ["autor", "mangá", "roteirista"],
         "relacionados": ["Tsukasa Abe", "Shogakukan", "Staff e Produção"],
         "fontes": [
@@ -416,7 +416,12 @@
                 "url": "https://ja.wikipedia.org/wiki/山田鐘人"
             }
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://pics.cdn.librarything.com//picsizes/16/76/16760676-r-h1200-w1200-pv25_636d532f2f774377424c4145_v5.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Tsukasa Abe",
@@ -481,7 +486,7 @@
     {
         "titulo": "Evan Call",
         "tipo": "Equipe",
-        "descricao": "Evan Call é um compositor americano conhecido por seu trabalho em diversas trilhas sonoras de animes. Antes de 'Frieren', ele ganhou notoriedade por compor para séries aclamadas como 'Violet Evergarden' e 'My Happy Marriage'. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual.",
+        "descricao": "Evan Call (nascido na California em 1988), graduou-se pelo Berklee College of Music na área de composições musicais para cinema. Após mudar-se para o Japão, juntou-se ao grupo <a href='https://en.wikipedia.org/wiki/Elements_Garden'>Elements Garden</a> e começou a compor em 2012, ganhando notoriedade por arranjos grandiosos e música sinfônica impressionante. Antes de 'Frieren', ele compôs para séries como 'Violet Evergarden', 'My Happy Marriage', entre outras. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual. Ele também participou da composição e arranjos da música 'Anytime Anywhere' de Milet, música de encerramento do anime. Ele ganhou o prêmio de 'Melhor Som e Performance' no Tokyo Anime Award Festival de 2025 pelo seu trabalho em Frieren.",
         "tags": ["compositor", "trilha sonora", "anime"],
         "relacionados": ["Trilha Sonora de Frieren", "Staff e Produção"],
         "fontes": [
@@ -490,21 +495,40 @@
                 "url": "https://en.wikipedia.org/wiki/Evan_Call"
             }
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://img.youtube.com/vi/mhle3t5XAxw/maxres1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Keiichiro Saito",
         "tipo": "Equipe",
-        "descricao": "Keiichiro Saito é o diretor da adaptação para anime de 'Frieren'. Ele ganhou grande reconhecimento na indústria por seu trabalho anterior como diretor de 'Bocchi the Rock!', onde demonstrou uma criatividade visual única e uma direção sensível. Em Frieren, sua abordagem cinematográfica e o foco na sutileza das emoções foram cruciais para o sucesso da adaptação.",
+        "descricao": "Keiichiro Saito (斎藤 圭一郎, Saitō Keiichirō, nascido em 1993) é o diretor da adaptação para anime de 'Frieren'. Graduado pelo Departamento de Animação da Faculdade de Mangá da Universidade Seika em Kioto, ganhou reconhecimento por seu trabalho como diretor de 'Bocchi the Rock!'. Em Frieren, sua abordagem cinematográfica e o foco na sutileza das emoções foram cruciais para o sucesso da adaptação. Ele foi o mais jovem diretor a ganhar o Prêmio de Melhor Diretor de Anime no Crunchyroll Anime Awards, em 2025. Foi selecionado no Global Anime Challenge, programa do governo do Japão para promover o anime internacionalmente, levando integrantes da indústria durante 8 meses para ter contato com estúdios estrangeiros.",
         "tags": ["diretor", "anime", "Bocchi the Rock!"],
         "relacionados": ["Staff e Produção", "Equipe de Animação Principal"],
         "fontes": [
             {
-                "nome": "Anime News Network",
-                "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=144985"
+                "nome": "Mantan Web",
+                "url": "hhttps://en.mantan-web.jp/e_article/20250810dog00m200064000c.html"
+            },
+            {
+                "nome": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Director"
+            },
+            {
+                "nome": "The Movie DB",
+                "url": "https://www.themoviedb.org/person/2574299?language=pt-BR"
             }
+        
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://media.themoviedb.org/t/p/w300_and_h450_face/zlRQwhbblqGQudJV4CDycOVJSDH.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Equipe de Animação Principal",
@@ -541,7 +565,12 @@
         "tags": ["demônio", "Sete Sábios da Destruição", "Zoltraak"],
         "relacionados": ["Zoltraak", "Frieren", "Rei Demônio"],
         "fontes": [],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-8.png",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Genau",
