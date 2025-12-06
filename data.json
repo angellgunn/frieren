@@ -407,35 +407,43 @@
     {
         "titulo": "Kanehito Yamada",
         "tipo": "Equipe",
-        "descricao": "Kanehito Yamada (山田鐘人) é a roteirista e criadora da história original do mangá 'Frieren'. Antes de seu grande sucesso com Frieren, ela foi premiada com o 'Manga Taishō New Creator Prize' por sua obra 'Bocchi Hakase to Robot Shoujo no Zetsubou Teki Utopia'. Seu estilo de escrita é marcado pela profundidade emocional e exploração de temas existenciais.",
+        "descricao": "Kanehito Yamada (山田鐘人) é o roteirista e criador da história original do mangá 'Frieren'. Em 2010, ele foi admitido como assistente do mangaká <a ref='https://en.wikipedia.org/wiki/Tamiki_Wakaki'>Tamiki Wakaki</a>. Em 2021, foi premiado com o 'Manga Taishō' por seu trabalho em Frieren. Ganhou também o Shogakukan Manga Award em 2023 e o Kodansha Manga Award em 2024 pela mesma obra. Seu estilo é marcado pela profundidade emocional e exploração de temas existenciais. Temas recorrentes incluem a mortalidade, o valor das memórias e a natureza efêmera da vida, explorados através dos personagens que enfrentam perdas e buscam significado em suas jornadas. O autor lança mão, paradoxalmente, de uma protagonista imortal para explorar a transitoriedade da vida humana e a importância dos laços afetivos.",
         "tags": ["autor", "mangá", "roteirista"],
         "relacionados": ["Tsukasa Abe", "Shogakukan", "Staff e Produção"],
         "fontes": [
             {
                 "nome": "Wikipedia (JA)",
                 "url": "https://ja.wikipedia.org/wiki/山田鐘人"
+            },
+            {
+                "nome": "Shogakukan Manga Award",
+                "url": "https://en.wikipedia.org/wiki/Shogakukan_Manga_Award"
             }
         ],
-        "imagens": [
-            {
-                "url": "https://pics.cdn.librarything.com//picsizes/16/76/16760676-r-h1200-w1200-pv25_636d532f2f774377424c4145_v5.jpg",
-                "licenca": "Fair Use"
-            }
-        ]
+        "imagens": []
     },
     {
         "titulo": "Tsukasa Abe",
         "tipo": "Equipe",
-        "descricao": "Tsukasa Abe é o artista responsável pela ilustração do mangá 'Frieren'. Sendo este seu primeiro trabalho de grande serialização, seu traço detalhado e expressivo foi fundamental para definir a identidade visual da obra, capturando perfeitamente a atmosfera melancólica e a beleza do mundo de Frieren.",
+        "descricao": "Tsukasa Abe é artista responsável pela ilustração do mangá 'Frieren'. Sendo este seu primeiro trabalho de grande serialização, seu traço detalhado foi fundamental para definir a identidade visual da obra, capturando a atmosfera e a beleza de seu mundo. Em 2015, ganhou um prêmio no New Generation Sunday Award da revista Weekly Shōnen Sunday. Sua estréia foi com a obra Canon, publicada na revista Shōnen Sunday S em 2017. Em 2018, ganhou uma menção honrosa no Shogakukan Newcomer Comic Award na categoria shōnen, por MEET UP. Eisen é o seu personagem favorito, por ter constituído um desafio interessante de desenhar. É fã de Persona 3.",
         "tags": ["autor", "mangá", "ilustrador"],
         "relacionados": ["Kanehito Yamada", "Shogakukan", "Staff e Produção"],
         "fontes": [
             {
                 "nome": "Wikipedia (JA)",
                 "url": "https://ja.wikipedia.org/wiki/アベツカサ"
+            },
+            {
+                "nome": "Youtube - Tsukasa Abe",
+                "url": "https://youtu.be/dUEORbyfwTY?si=YPNRhgYg9rL6eUWw"
             }
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://img.youtube.com/vi/dUEORbyfwTY/maxres2.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Shogakukan",
@@ -493,6 +501,10 @@
             {
                 "nome": "Wikipedia (EN)",
                 "url": "https://en.wikipedia.org/wiki/Evan_Call"
+            },
+            {
+                "nome": "Youtube - Evan Call",
+                "url": "https://youtu.be/mhle3t5XAxw?si=VwrKjT5uci8ueTgI"
             }
         ],
         "imagens": [

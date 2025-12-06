@@ -212,6 +212,40 @@ article a:hover {
     font-weight: 500;
 }
 
+.fontes-container {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--tertiary-color);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.btn-fonte {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid var(--primary-color);
+}
+
+.btn-fonte:hover {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    box-shadow: 0 0 10px rgba(138, 180, 248, 0.3);
+    transform: translateY(-2px);
+}
+
+.btn-fonte:active {
+    transform: translateY(0);
+}
+
 .filtros {
     display: flex;
     gap: 0.5rem;

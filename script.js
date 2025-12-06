@@ -41,6 +41,12 @@ function renderizarCards(entradas) {
             : '';
 
         const tagsHtml = dado.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
+        
+        const fontesHtml = dado.fontes && dado.fontes.length > 0
+            ? `<div class="fontes-container">
+                ${dado.fontes.map(fonte => `<a href="${fonte.url}" target="_blank" class="btn-fonte">${fonte.nome}</a>`).join('')}
+               </div>`
+            : '';
 
         article.innerHTML = `
             ${imagemHtml}
@@ -53,6 +59,7 @@ function renderizarCards(entradas) {
                 <div class="tags-container">
                     ${tagsHtml}
                 </div>
+                ${fontesHtml}
             </div>
         `;
         cardContainer.appendChild(article);
