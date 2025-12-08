@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": "A Natureza do Tempo e da Memória",
+        "tipo": "Filosofia",
+        "descricao": "Um dos temas centrais de Frieren é a exploração de como a percepção do tempo afeta relacionamentos e o valor das memórias. Para a quase imortal Frieren, uma década é um piscar de olhos, enquanto para seus companheiros humanos, foi uma parte significativa de suas vidas. A série investiga o arrependimento e a beleza encontrados ao valorizar momentos fugazes.",
+        "tags": ["tempo", "memória", "mortalidade", "relacionamentos"],
+        "relacionados": ["Frieren", "Himmel"],
+        "fontes": [],
+        "imagens": []
+    },
+    {
+        "titulo": "Zoltraak",
+        "tipo": "Conceito",
+        "descricao": "Uma poderosa magia ofensiva desenvolvida pelos demônios, originalmente conhecida como 'magia para matar humanos'. Após ser decifrada e analisada por magos humanos, foi adaptada e sistematizada, tornando-se o feitiço de ataque padrão para a humanidade. Frieren e Fern são mestras em seu uso.",
+        "tags": ["magia", "magia ofensiva", "demônios", "humanos"],
+        "relacionados": ["Frieren", "Fern", "Qual"],
+        "fontes": [],
+        "imagens": []
+    },
+    {
+        "titulo": "Associação Continental de Magos",
+        "tipo": "Organização",
+        "descricao": "Uma organização estabelecida pela maga elfa Serie para cultivar e certificar magos de elite. A associação realiza exames rigorosos para conceder o título de 'Mago de Primeira Classe', que oferece privilégios e acesso a conhecimentos mágicos restritos.",
+        "tags": ["magia", "organização", "magos de primeira classe"],
+        "relacionados": ["Serie", "Fern", "Frieren", "Exame de Maga de Primeira Classe"],
+        "fontes": [],
+        "imagens": []
+    },
+    {
+        "titulo": "Exame de Maga de Primeira Classe",
+        "tipo": "Evento",
+        "descricao": "Uma série de testes desafiadores administrados pela Associação Continental de Magos para selecionar os magos mais promissores. O exame é dividido em várias etapas, testando não apenas o poder mágico, mas também o trabalho em equipe, a estratégia e a filosofia do candidato. Fern participa deste exame.",
+        "tags": ["exame", "magia", "competição"],
+        "relacionados": ["Fern", "Serie", "Genau", "Sense", "Denken", "Übel"],
+        "fontes": [],
+        "imagens": []
+    },
+    {
+        "titulo": "Aureole / Lugar de Descanso das Almas",
+        "tipo": "Local",
+        "descricao": "Um lugar mítico localizado no extremo norte do continente, na região de Ende. Diz a lenda que é um local onde se pode encontrar e conversar com as almas dos mortos. É o destino final da jornada de Frieren, que busca se reencontrar com Himmel para se despedir adequadamente.",
+        "tags": ["local", "mitologia", "almas", "Ende"],
+        "relacionados": ["Frieren", "Himmel", "Flamme"],
+        "fontes": [],
+        "imagens": []
+    }
+]

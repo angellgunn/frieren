@@ -5,9 +5,21 @@ let dados = [];
 
 async function carregarDados() {
     try {
-        const resposta = await fetch("data.json");
-        dados = await resposta.json();
-        renderizarCards(dados); // Renderiza todos os cards inicialmente
+        // Define os caminhos para os arquivos de dados
+        const dataFiles = [
+            "data/characters.json",
+            "data/concepts.json",
+            "data/episodes.json",
+            "data/production.json"
+        ];
+
+        // Carrega todos os arquivos de dados em paralelo
+        const responses = await Promise.all(dataFiles.map(file => fetch(file)));
+        const jsonData = await Promise.all(responses.map(res => res.json()));
+
+        // Combina os dados de todos os arquivos em um único array
+        dados = jsonData.flat();
+        renderizarCards(dados);
     } catch (error) {
         console.error("Erro ao carregar os dados:", error);
     }

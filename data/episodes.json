@@ -1,0 +1,394 @@
+[
+    {
+        "titulo": "Episódio 1: O Fim da Aventura",
+        "tipo": "Episódio",
+        "descricao": "Após 10 anos de jornada, o grupo do herói derrota o Rei Demônio e retorna. Eles observam uma chuva de meteoros que ocorre a cada 50 anos e prometem se reencontrar para ver a próxima. Frieren parte em uma jornada solitária e retorna 50 anos depois, apenas para encontrar seus amigos envelhecidos e testemunhar a morte de Himmel, o que a força a confrontar sua percepção sobre o tempo e os laços que criou.",
+        "tags": ["episódio 1", "chuva de meteoros", "morte de Himmel"],
+        "relacionados": ["Frieren", "Himmel", "Eisen", "Heiter"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/01_03.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 2: Não Precisava Ser Mágica...",
+        "tipo": "Episódio",
+        "descricao": "Frieren retorna para visitar Heiter, que agora é um bispo idoso. Ele lhe confia uma órfã de guerra chamada Fern, pedindo que Frieren a treine como maga. O episódio mostra o início do relacionamento delas e o treinamento de Fern até a morte de Heiter.",
+        "tags": ["episódio 2", "Fern", "Heiter", "treinamento"],
+        "relacionados": ["Frieren", "Fern", "Heiter"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/01_02-1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 3: Magia para Matar",
+        "tipo": "Episódio",
+        "descricao": "Anos após a morte de Heiter, Frieren e Fern continuam sua jornada. Elas encontram os restos de um selo que Frieren e o grupo do herói colocaram em um demônio poderoso, Qual. O selo está enfraquecendo, e Frieren decide ensinar a Fern a magia que derrotou Qual, a 'magia para matar humanos' (Zoltraak).",
+        "tags": ["episódio 3", "Qual", "Zoltraak", "magia de matar humanos"],
+        "relacionados": ["Frieren", "Fern", "Qual", "Zoltraak"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/01_03-1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 4: O Lugar de Descanso das Almas",
+        "tipo": "Episódio",
+        "descricao": "Frieren revela a Fern o verdadeiro propósito de sua jornada: viajar para Aureole, o lugar de descanso das almas no extremo norte, para se encontrar com Himmel novamente. O episódio também mostra um flashback do treinamento de Frieren com sua mestra, Flamme.",
+        "tags": ["episódio 4", "Aureole", "Flamme", "flashback"],
+        "relacionados": ["Frieren", "Fern", "Himmel", "Flamme", "Aureole / Lugar de Descanso das Almas"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/01_04.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 5: Fantasma do Morto",
+        "tipo": "Episódio",
+        "descricao": "Frieren e Fern continuam sua jornada para o norte. Frieren usa uma magia para conversar com um fantasma de Himmel, mas a conversa é breve e superficial, frustrando-a. Elas chegam a uma cidade onde encontram Stark, o aprendiz de Eisen, que vive com medo de um dragão.",
+        "tags": ["episódio 5", "fantasma", "Himmel", "Stark"],
+        "relacionados": ["Frieren", "Fern", "Himmel", "Stark", "Eisen"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/10/01_02.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 6: O Herói da Vila",
+        "tipo": "Episódio",
+        "descricao": "Frieren e Fern chegam a uma vila aterrorizada por um dragão. Elas precisam da ajuda de um guerreiro para cumprir a promessa de Eisen, mas o único disponível é Stark, seu aprendiz medroso. O episódio explora a natureza do heroísmo e a coragem de Stark.",
+        "tags": ["episódio 6", "dragão", "Stark", "coragem"],
+        "relacionados": ["Stark", "Frieren", "Fern", "Eisen"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/10/01_01.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 7: Como num Conto de Fadas",
+        "tipo": "Episódio",
+        "descricao": "O grupo chega ao domínio do Conde Granat, que está sob a ameaça de demônios liderados por Lügner, um enviado de Aura. Lügner se apresenta como um mensageiro da paz, mas Frieren desconfia de suas intenções. Fern e Stark são capturados.",
+        "tags": ["episódio 7", "demônios", "Lügner", "Conde Granat"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Lügner", "Aura, a Guilhotina"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/10/01_01-3.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 8: Frieren, a Aniquiladora",
+        "tipo": "Episódio",
+        "descricao": "As tensões no domínio do Conde Granat chegam ao limite. Enquanto Fern e Stark encontram sua própria determinação, Frieren assume seu antigo dever e revela por que ela é temida pelos demônios, ganhando o epíteto de 'Frieren, a Aniquiladora' (Sōsō no Furīren).",
+        "tags": ["episódio 8", "Sōsō no Furīren", "demônios", "Conde Granat"],
+        "relacionados": ["Frieren", "Lügner", "Draht"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/10/01_03-4.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 9: Aura, a Guilhotina",
+        "tipo": "Episódio",
+        "descricao": "Enquanto Fern e Stark se retiram temporariamente com o Conde Granat, a verdadeira inimiga de Frieren a aguarda fora da cidade. Frieren se prepara para o confronto com Aura, a Guilhotina, uma dos Sete Sábios da Destruição.",
+        "tags": ["episódio 9", "Aura, a Guilhotina", "Sete Sábios da Destruição"],
+        "relacionados": ["Frieren", "Aura, a Guilhotina"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/10/01_02-6.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 10: Uma Maga Poderosa",
+        "tipo": "Episódio",
+        "descricao": "O treinamento de Frieren sob a tutela de sua mestra Flamme é posto à prova em seu confronto com Aura. Frieren usa sua vasta experiência e o controle suprimido de sua mana para virar o jogo contra a magia de Aura, resultando em um desfecho icônico.",
+        "tags": ["episódio 10", "Aura, a Guilhotina", "Flamme", "controle de mana"],
+        "relacionados": ["Frieren", "Aura, a Guilhotina", "Flamme"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/11/01_05.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 11: Inverno nas Terras do Norte",
+        "tipo": "Episódio",
+        "descricao": "Após derrotar Aura, o grupo continua sua jornada e enfrenta o rigoroso inverno do norte. O episódio foca na dinâmica do grupo e em momentos mais leves, como a busca de Frieren por um grimório que derrete roupas e o aniversário de Stark.",
+        "tags": ["episódio 11", "inverno", "aniversário", "grimório"],
+        "relacionados": ["Frieren", "Fern", "Stark"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/11/01_01-4.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 12: Um Verdadeiro Herói",
+        "tipo": "Episódio",
+        "descricao": "O grupo chega a uma vila onde uma estátua de Himmel foi erguida. Frieren relembra como a bondade e as ações altruístas de Himmel, mesmo as pequenas, o tornaram um verdadeiro herói aos olhos das pessoas que ele ajudou.",
+        "tags": ["episódio 12", "Himmel", "estátua", "heroísmo"],
+        "relacionados": ["Frieren", "Himmel", "Fern", "Stark"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/11/01_01-5.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 13: Aversão à Própria Espécie",
+        "tipo": "Episódio",
+        "descricao": "Passando por uma vila na floresta, o grupo de Frieren conhece Sein, um sacerdote talentoso, mas corrupto. O episódio explora o passado de Sein e seu relacionamento com seu irmão, que o leva a se juntar temporariamente à jornada.",
+        "tags": ["episódio 13", "Sein", "sacerdote"],
+        "relacionados": ["Sein", "Frieren", "Fern", "Stark"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/11/01_01-6.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 14: Privilégio dos Jovens",
+        "tipo": "Episódio",
+        "descricao": "Sein decide se separar do grupo para seguir a trilha de seu amigo, o 'Guerreiro Gorila'. O episódio explora a despedida e a promessa de se reencontrarem. Frieren, Fern e Stark continuam sua jornada para o norte.",
+        "tags": ["episódio 14", "Sein", "despedida", "Guerreiro Gorila"],
+        "relacionados": ["Sein", "Frieren", "Fern", "Stark"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/12/01_01-1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 15: Cheiro de Problemas",
+        "tipo": "Episódio",
+        "descricao": "O grupo chega a uma cidade murada e Frieren é brevemente detida por um guarda que sente o cheiro de demônios nela, devido às suas batalhas passadas. O episódio mostra a desconfiança que os humanos ainda têm e a reputação de Frieren.",
+        "tags": ["episódio 15", "cidade murada", "reputação"],
+        "relacionados": ["Frieren", "Fern", "Stark"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/12/01_01-2.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 16: Amigo de Longa Data",
+        "tipo": "Episódio",
+        "descricao": "O grupo reencontra um velho anão guerreiro que é amigo de Eisen. Através dele, Frieren reflete sobre como as raças de vida longa, como elfos e anões, percebem a passagem do tempo e a perda de amigos em comum.",
+        "tags": ["episódio 16", "anão", "tempo", "amizade"],
+        "relacionados": ["Frieren", "Eisen", "Stark"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/12/01_01-3.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 17: Cuide-se Bem",
+        "tipo": "Episódio",
+        "descricao": "Frieren, Fern e Stark finalmente chegam à cidade de Äußerst, onde será realizado o Exame de Maga de Primeira Classe. Fern se prepara para o exame, enquanto Frieren reencontra uma figura de seu passado. O episódio introduz a Associação Continental de Magos.",
+        "tags": ["episódio 17", "Äußerst", "Exame de Maga de Primeira Classe", "Associação Continental de Magos"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Exame de Maga de Primeira Classe", "Serie"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/01_01.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 18: Exame de Maga de Primeira Classe",
+        "tipo": "Episódio",
+        "descricao": "Começa a primeira etapa do exame. Os candidatos são divididos em grupos e devem capturar um pássaro raro chamado Stille. Fern e Frieren acabam em grupos diferentes. Conhecemos vários novos magos, como Kanne, Lawine, Wirbel, Übel e Denken.",
+        "tags": ["episódio 18", "exame", "Stille", "competição"],
+        "relacionados": ["Fern", "Frieren", "Kanne", "Lawine", "Wirbel", "Übel", "Denken", "Genau"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/01_01-1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 19: Planejamento Detalhado",
+        "tipo": "Episódio",
+        "descricao": "Os grupos elaboram suas estratégias para capturar o Stille. O grupo de Frieren enfrenta dificuldades devido à falta de cooperação, enquanto o grupo de Fern usa uma abordagem mais calculada. O episódio destaca as diferentes filosofias de combate e trabalho em equipe dos magos.",
+        "tags": ["episódio 19", "exame", "estratégia", "trabalho em equipe"],
+        "relacionados": ["Frieren", "Fern", "Kanne", "Lawine", "Wirbel", "Übel"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/01_01-2.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 20: Magia Necessária",
+        "tipo": "Episódio",
+        "descricao": "A primeira etapa do exame se intensifica. O grupo de Denken tenta roubar o Stille do grupo de Frieren, resultando em um confronto direto entre Frieren e Denken. A batalha revela a imensa diferença de poder e experiência.",
+        "tags": ["episódio 20", "exame", "confronto", "Denken"],
+        "relacionados": ["Frieren", "Denken", "Laufen", "Richter"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/01_01-3.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 21: O Mundo da Magia",
+        "tipo": "Episódio",
+        "descricao": "A primeira etapa do exame chega ao fim. A examinadora Sense anuncia o início da segunda etapa: conquistar uma masmorra (dungeon) cheia de armadilhas e perigos, incluindo cópias dos próprios candidatos.",
+        "tags": ["episódio 21", "exame", "masmorra", "Sense"],
+        "relacionados": ["Fern", "Frieren", "Sense", "Genau", "Exame de Maga de Primeira Classe"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/02/01_01.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 22: Futuros Adversários",
+        "tipo": "Episódio",
+        "descricao": "Os candidatos entram na masmorra e logo encontram cópias de si mesmos, criadas pela magia do local. A cópia de Frieren se revela um obstáculo intransponível, forçando os magos a trabalharem juntos para sobreviver.",
+        "tags": ["episódio 22", "exame", "masmorra", "cópias"],
+        "relacionados": ["Frieren", "Fern", "Denken", "Übel", "Sense"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/02/01_01-1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 23: Conquistando a Masmorra",
+        "tipo": "Episódio",
+        "descricao": "Enquanto a maioria dos magos se une para enfrentar a cópia de Frieren, a Frieren original e Fern encontram uma maneira de chegar ao final da masmorra. O episódio explora a lógica por trás da masmorra e a importância de pensar fora da caixa.",
+        "tags": ["episódio 23", "exame", "masmorra", "estratégia"],
+        "relacionados": ["Frieren", "Fern", "Sense"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/02/01_01-2.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 24: Réplicas Perfeitas",
+        "tipo": "Episódio",
+        "descricao": "A batalha contra a cópia de Frieren continua. Os magos restantes, liderados por Denken, tentam conter a réplica enquanto Frieren e Fern enfrentam a cópia de Fern em uma batalha de alta velocidade.",
+        "tags": ["episódio 24", "exame", "batalha", "cópias"],
+        "relacionados": ["Frieren", "Fern", "Denken", "Sense"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/02/01_01-3.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 25: Um Defeito Fatal",
+        "tipo": "Episódio",
+        "descricao": "Frieren explora um 'defeito fatal' na magia de cópia da masmorra para derrotar sua própria réplica. A segunda etapa do exame termina, e os candidatos aprovados se preparam para a entrevista final com Serie.",
+        "tags": ["episódio 25", "exame", "masmorra", "Serie"],
+        "relacionados": ["Frieren", "Fern", "Sense", "Serie"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/03/01_01.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 26: O Pináculo da Magia",
+        "tipo": "Episódio",
+        "descricao": "Começa a terceira e última etapa do exame: uma entrevista com a maga ancestral Serie. Cada candidato é julgado por ela com base em seu potencial e instinto. A perspectiva fria e pragmática de Serie sobre a magia entra em conflito com a de muitos candidatos, incluindo Fern.",
+        "tags": ["episódio 26", "exame", "entrevista", "Serie"],
+        "relacionados": ["Serie", "Fern", "Denken", "Übel", "Frieren"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/03/01_01-1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 27: A Era dos Humanos",
+        "tipo": "Episódio",
+        "descricao": "As entrevistas com Serie continuam. Fern tem sua entrevista e seu talento nato é reconhecido, mas sua motivação é questionada por Serie. O episódio reflete sobre o futuro da magia e o papel que a nova geração de magos desempenhará.",
+        "tags": ["episódio 27", "exame", "Serie", "Fern"],
+        "relacionados": ["Serie", "Fern", "Frieren"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/03/01_01-2.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Episódio 28: Seria Embaraçoso",
+        "tipo": "Episódio",
+        "descricao": "O Exame de Maga de Primeira Classe termina. Fern se torna uma maga de primeira classe e recebe um privilégio de Serie. Frieren e seus companheiros se preparam para retomar sua jornada para o norte, para Aureole. O episódio final da temporada fecha o arco do exame e reafirma o objetivo da jornada.",
+        "tags": ["episódio 28", "final da temporada", "maga de primeira classe", "Aureole"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Serie", "Exame de Maga de Primeira Classe"],
+        "fontes": [],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2024/03/01_01-3.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    }
+]

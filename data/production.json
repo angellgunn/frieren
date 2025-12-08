@@ -1,0 +1,208 @@
+[
+    {
+        "titulo": "Staff e Produção",
+        "tipo": "Produção",
+        "descricao": "Baseada no mangá escrito por Kanehito Yamada e ilustrado por Tsukasa Abe. Adaptação para anime: estúdio Madhouse, direção de Keiichiro Saito. A composição da série ficou a cargo de Tomohiro Suzuki e o design de personagens por Reiko Nagasawa. A trilha sonora é de Evan Call. A produção do anime é da TOHO animation.",
+        "tags": ["produção", "staff", "estúdio", "mangá", "anime", "Madhouse", "Kanehito Yamada", "Tsukasa Abe", "Keiichiro Saito"],
+        "relacionados": ["Frieren"],
+        "fontes": [
+            {
+                "nome": "Site Oficial do Anime Frieren",
+                "url": "https://frieren-anime.jp/"
+            },
+            {
+                "nome": "MyAnimeList - Frieren",
+                "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Elenco de Voz e Versão em Português do Brasil",
+        "tipo": "Produção",
+        "descricao": "O elenco de voz japonês (seiyuu) de 'Frieren e a Jornada para o Além' é composto por talentos notáveis que dão vida aos personagens. Atsumi Tanezaki interpreta Frieren, Kana Ichinose é Fern, Chiaki Kobayashi dá voz a Stark, e Nobuhiko Okamoto é Himmel. Outros membros importantes incluem Hiroki Touchi como Heiter, Yoji Ueda como Eisen, Atsuko Tanaka como Flamme e Aya Hisakawa como Serie. A série está disponível com legendas e dublagem oficial em português do Brasil através da plataforma Crunchyroll, permitindo que o público lusófono desfrute da história com alta qualidade.",
+        "tags": ["dublagem", "seiyuu", "atores de voz", "português", "japonês", "Crunchyroll"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen", "Flamme", "Serie"],
+        "fontes": [
+            {
+                "nome": "Site Oficial do Anime Frieren",
+                "url": "https://frieren-anime.jp/character/"
+            },
+            {
+                "nome": "Crunchyroll - Frieren",
+                "url": "https://www.crunchyroll.com/pt-br/series/GZJHMM1ME/frieren-beyond-journeys-end"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Kanehito Yamada",
+        "tipo": "Equipe",
+        "descricao": "Kanehito Yamada (山田鐘人) é o roteirista e criador da história original do mangá 'Frieren'. Em 2010, ele foi admitido como assistente do mangaká <a ref='https://en.wikipedia.org/wiki/Tamiki_Wakaki'>Tamiki Wakaki</a>. Em 2021, foi premiado com o 'Manga Taishō' por seu trabalho em Frieren. Ganhou também o Shogakukan Manga Award em 2023 e o Kodansha Manga Award em 2024 pela mesma obra. Seu estilo é marcado pela profundidade emocional e exploração de temas existenciais. Temas recorrentes incluem a mortalidade, o valor das memórias e a natureza efêmera da vida, explorados através dos personagens que enfrentam perdas e buscam significado em suas jornadas. O autor lança mão, paradoxalmente, de uma protagonista imortal para explorar a transitoriedade da vida humana e a importância dos laços afetivos.",
+        "tags": ["autor", "mangá", "roteirista"],
+        "relacionados": ["Tsukasa Abe", "Shogakukan", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (JA)",
+                "url": "https://ja.wikipedia.org/wiki/山田鐘人"
+            },
+            {
+                "nome": "Shogakukan Manga Award",
+                "url": "https://en.wikipedia.org/wiki/Shogakukan_Manga_Award"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Tsukasa Abe",
+        "tipo": "Equipe",
+        "descricao": "Tsukasa Abe é artista responsável pela ilustração do mangá 'Frieren'. Sendo este seu primeiro trabalho de grande serialização, seu traço detalhado foi fundamental para definir a identidade visual da obra, capturando a atmosfera e a beleza de seu mundo. Em 2015, ganhou um prêmio no New Generation Sunday Award da revista Weekly Shōnen Sunday. Sua estréia foi com a obra Canon, publicada na revista Shōnen Sunday S em 2017. Em 2018, ganhou uma menção honrosa no Shogakukan Newcomer Comic Award na categoria shōnen, por MEET UP. Eisen é o seu personagem favorito, por ter constituído um desafio interessante de desenhar. É fã de Persona 3.",
+        "tags": ["autor", "mangá", "ilustrador"],
+        "relacionados": ["Kanehito Yamada", "Shogakukan", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (JA)",
+                "url": "https://ja.wikipedia.org/wiki/アベツカサ"
+            },
+            {
+                "nome": "Youtube - Tsukasa Abe",
+                "url": "https://youtu.be/dUEORbyfwTY?si=YPNRhgYg9rL6eUWw"
+            },
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Abe_Tsukasa"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://img.youtube.com/vi/dUEORbyfwTY/maxres2.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Shogakukan",
+        "tipo": "Produção",
+        "descricao": "A Shogakukan é uma das maiores editoras do Japão, responsável pela publicação original do mangá 'Frieren' na revista Weekly Shōnen Sunday. A revista é histórica e já publicou obras de renome como 'Inuyasha' e 'Detective Conan'. A editora desempenha um papel crucial na curadoria e promoção da obra no mercado japonês.",
+        "tags": ["editora", "japão", "mangá"],
+        "relacionados": ["Kanehito Yamada", "Tsukasa Abe", "Editoras Internacionais"],
+        "fontes": [
+            {
+                "nome": "Site Oficial da Shogakukan",
+                "url": "https://www.shogakukan.co.jp/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Editoras Internacionais",
+        "tipo": "Produção",
+        "descricao": "O mangá de 'Frieren' foi licenciado para publicação em diversos países. No Brasil, a Panini Comics (através do selo Panini Mangá) é a responsável pela distribuição. Nos Estados Unidos, a Viz Media publica a obra sob o selo Viz Signature, voltado para um público mais maduro. Essas parcerias são essenciais para que a obra alcance um público global.",
+        "tags": ["editora", "internacional", "licenciamento"],
+        "relacionados": ["Shogakukan"],
+        "fontes": [
+            {
+                "nome": "Panini Brasil",
+                "url": "https://www.panini.com.br/"
+            },
+            {
+                "nome": "Viz Media",
+                "url": "https://www.viz.com/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Trilha Sonora de Frieren",
+        "tipo": "Produção",
+        "descricao": "Composta por Evan Call, a trilha sonora do anime é amplamente elogiada por capturar a essência da série. Além da música instrumental, a produção se destaca pelos temas de abertura e encerramento. A primeira abertura, 'Yuusha' da dupla YOASOBI, tornou-se um sucesso global. O encerramento, 'Anytime Anywhere' da cantora milet, complementa o tom melancólico e esperançoso da jornada.",
+        "tags": ["anime", "trilha sonora", "evan call"],
+        "relacionados": ["Evan Call", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Site Oficial - Música",
+                "url": "https://frieren-anime.jp/music/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Evan Call",
+        "tipo": "Equipe",
+        "descricao": "Evan Call (nascido na California em 1988), graduou-se pelo Berklee College of Music na área de composições musicais para cinema. Após mudar-se para o Japão, juntou-se ao grupo <a href='https://en.wikipedia.org/wiki/Elements_Garden'>Elements Garden</a> e começou a compor em 2012, ganhando notoriedade por arranjos grandiosos e música sinfônica impressionante. Antes de 'Frieren', ele compôs para séries como 'Violet Evergarden', 'My Happy Marriage', entre outras. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual. Ele também participou da composição e arranjos da música 'Anytime Anywhere' de Milet, música de encerramento do anime. Ele ganhou o prêmio de 'Melhor Som e Performance' no Tokyo Anime Award Festival de 2025 pelo seu trabalho em Frieren.",
+        "tags": ["compositor", "trilha sonora", "anime"],
+        "relacionados": ["Trilha Sonora de Frieren", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (EN)",
+                "url": "https://en.wikipedia.org/wiki/Evan_Call"
+            },
+            {
+                "nome": "Youtube - Evan Call",
+                "url": "https://youtu.be/mhle3t5XAxw?si=VwrKjT5uci8ueTgI"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://img.youtube.com/vi/mhle3t5XAxw/maxres1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Keiichiro Saito",
+        "tipo": "Equipe",
+        "descricao": "Keiichiro Saito (斎藤 圭一郎, Saitō Keiichirō, nascido em 1993) é o diretor da adaptação para anime de 'Frieren'. Graduado pelo Departamento de Animação da Faculdade de Mangá da Universidade Seika em Kioto, ganhou reconhecimento por seu trabalho como diretor de 'Bocchi the Rock!'. Em Frieren, sua abordagem cinematográfica e o foco na sutileza das emoções foram cruciais para o sucesso da adaptação. Ele foi o mais jovem diretor a ganhar o Prêmio de Melhor Diretor de Anime no Crunchyroll Anime Awards, em 2025. Foi selecionado no Global Anime Challenge, programa do governo do Japão para promover o anime internacionalmente, levando integrantes da indústria durante 8 meses para ter contato com estúdios estrangeiros.",
+        "tags": ["diretor", "anime", "Bocchi the Rock!"],
+        "relacionados": ["Staff e Produção", "Equipe de Animação Principal"],
+        "fontes": [
+            {
+                "nome": "Mantan Web",
+                "url": "hhttps://en.mantan-web.jp/e_article/20250810dog00m200064000c.html"
+            },
+            {
+                "nome": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Director"
+            },
+            {
+                "nome": "The Movie DB",
+                "url": "https://www.themoviedb.org/person/2574299?language=pt-BR"
+            }
+        
+        ],
+        "imagens": [
+            {
+                "url": "https://media.themoviedb.org/t/p/w300_and_h450_face/zlRQwhbblqGQudJV4CDycOVJSDH.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Equipe de Animação Principal",
+        "tipo": "Equipe",
+        "descricao": "A qualidade visual do anime de 'Frieren' é resultado do trabalho de uma equipe talentosa. Reiko Nagasawa, como designer de personagens, adaptou o traço de Tsukasa Abe para a animação. Tomohiro Suzuki foi o responsável pela composição da série, estruturando o roteiro dos episódios. A direção de arte de Sawako Takagi criou os cenários deslumbrantes, enquanto a direção de fotografia de Akane Fushihara capturou a atmosfera melancólica e épica da jornada.",
+        "tags": ["animação", "design de personagens", "roteiro", "direção de arte"],
+        "relacionados": ["Keiichiro Saito", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Site Oficial - Staff/Cast",
+                "url": "https://frieren-anime.jp/staffcast/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Estúdio Madhouse",
+        "tipo": "Produção",
+        "descricao": "O Estúdio Madhouse é um dos mais renomados estúdios de animação do Japão, fundado em 1972 por ex-animadores da Mushi Pro. Conhecido por sua alta qualidade de produção e por adaptar obras com temas complexos e maduros, o estúdio foi responsável por animes icônicos como 'Death Note', 'Hunter x Hunter (2011)', 'One-Punch Man (1ª Temporada)' e 'Perfect Blue'. A escolha do Madhouse para 'Frieren' foi celebrada pelos fãs, e o resultado final é um testemunho de sua excelência em animação, direção e fidelidade à atmosfera da obra original.",
+        "tags": ["estúdio", "anime", "animação", "Madhouse", "Death Note", "Hunter x Hunter"],
+        "relacionados": ["Staff e Produção", "Keiichiro Saito", "Equipe de Animação Principal"],
+        "fontes": [
+            {
+                "nome": "Site Oficial do Madhouse",
+                "url": "https://www.madhouse.co.jp/"
+            }
+        ],
+        "imagens": []
+    }
+]
