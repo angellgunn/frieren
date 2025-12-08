@@ -38,6 +38,44 @@
         ]
     },
     {
+        "titulo": "Eisen",
+        "tipo": "Personagem",
+        "descricao": "Um guerreiro anão e membro do grupo de heróis original. Conhecido por sua incrível resistência e força. Assim como Frieren, ele tem uma vida mais longa que a dos humanos, mas sua percepção do tempo é diferente da dela. Ele confia a Frieren o treinamento de seu aprendiz, Stark. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
+        "tags": ["anão", "guerreiro", "grupo do herói"],
+        "relacionados": ["Frieren", "Himmel", "Heiter", "Stark"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Eisen"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara1_thumb-6.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Heiter",
+        "tipo": "Personagem",
+        "descricao": "O sacerdote humano do grupo de heróis. Era conhecido por seu gosto por álcool, mas também por sua profunda sabedoria e compaixão. Antes de morrer, ele acolhe a órfã de guerra Fern e pede a Frieren que a tome como aprendiz. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
+        "tags": ["humano", "sacerdote", "grupo do herói"],
+        "relacionados": ["Frieren", "Himmel", "Eisen", "Fern"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Heiter"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara1_thumb-5.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
         "titulo": "Fern",
         "tipo": "Personagem",
         "descricao": "Uma maga humana, aprendiz de Heiter e posteriormente de Frieren. Órfã de guerra, foi acolhida por Heiter. É uma maga talentosa e pragmática, que age como uma figura materna para Frieren em sua jornada, apesar de ser muito mais jovem. Primeira aparição: Mangá Capítulo 2, Anime Episódio 1.",
@@ -76,34 +114,20 @@
         ]
     },
     {
-        "titulo": "Eisen",
+        "titulo": "Sein",
         "tipo": "Personagem",
-        "descricao": "Um guerreiro anão e membro do grupo de heróis original. Conhecido por sua incrível resistência e força. Assim como Frieren, ele tem uma vida mais longa que a dos humanos, mas sua percepção do tempo é diferente da dela. Ele confia a Frieren o treinamento de seu aprendiz, Stark. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
-        "tags": ["anão", "guerreiro", "grupo do herói"],
-        "relacionados": ["Frieren", "Himmel", "Heiter", "Stark"],
+        "descricao": "Um talentoso sacerdote de aldeia que se junta temporariamente ao grupo de Frieren. Apesar de suas habilidades, ele possui vários vícios, como amor por álcool, cigarro e jogos de azar. Ele parte em busca de seu amigo de infância, o 'Guerreiro Gorila'. Primeira aparição: Mangá Capítulo 27, Anime Episódio 13.",
+        "tags": ["humano", "sacerdote", "vicios"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Guerreiro Gorila"],
         "fontes": [
             {
                 "nome": "Frieren Wiki (EN)",
-                "url": "https://frieren.fandom.com/wiki/Eisen"
+                "url": "https://frieren.fandom.com/wiki/Sein"
             }
         ],
         "imagens": [
             {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara1_thumb-6.png",
-                "licenca": "Fair Use"
-            }
-        ]
-    },
-    {
-        "titulo": "Heiter",
-        "tipo": "Personagem",
-        "descricao": "O sacerdote humano do grupo de heróis. Era conhecido por seu gosto por álcool, mas também por sua profunda sabedoria e compaixão. Antes de morrer, ele acolhe a órfã de guerra Fern e pede a Frieren que a tome como aprendiz. Primeira aparição: Mangá Capítulo 1, Anime Episódio 1.",
-        "tags": ["humano", "sacerdote", "grupo do herói"],
-        "relacionados": ["Frieren", "Himmel", "Eisen", "Fern"],
-        "fontes": [],
-        "imagens": [
-            {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/08/chara1_thumb-5.png",
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/11/chara1_thumb-1.png",
                 "licenca": "Fair Use"
             }
         ]
@@ -128,68 +152,17 @@
         ]
     },
     {
-        "titulo": "Sein",
-        "tipo": "Personagem",
-        "descricao": "Um talentoso sacerdote de aldeia que se junta temporariamente ao grupo de Frieren. Apesar de suas habilidades, ele possui vários vícios, como amor por álcool, cigarro e jogos de azar. Ele parte em busca de seu amigo de infância, o 'Guerreiro Gorila'. Primeira aparição: Mangá Capítulo 27, Anime Episódio 13.",
-        "tags": ["humano", "sacerdote", "vicios"],
-        "relacionados": ["Frieren", "Fern", "Stark", "Guerreiro Gorila"],
-        "fontes": [],
-        "imagens": [
-            {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/11/chara1_thumb-1.png",
-                "licenca": "Fair Use"
-            }
-        ]
-    },
-    {
-        "titulo": "Aura, a Guilhotina",
-        "tipo": "Demônio",
-        "descricao": "Uma dos Sete Sábios da Destruição, servindo diretamente ao Rei Demônio. Sua magia, Aschenputtel, permite que ela controle aqueles com mana inferior à sua através de sua balança da obediência. Ela entra em um confronto direto com Frieren, subestimando o poder da elfa. Primeira aparição: Mangá Capítulo 17, Anime Episódio 8.",
-        "tags": ["demônio", "Sete Sábios da Destruição", "Aschenputtel"],
-        "relacionados": ["Frieren", "Lügner", "Linie", "Rei Demônio"],
-        "fontes": [],
-        "imagens": [
-            {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-9-1.png",
-                "licenca": "Fair Use"
-            }
-        ]
-    },
-    {
-        "titulo": "Lügner",
-        "tipo": "Demônio",
-        "descricao": "Um demônio servindo sob o comando de Aura. Ele se infiltra em uma cidade humana disfarçado de 'enviado da paz' para enfraquecer suas defesas. É um demônio eloquente que usa palavras para manipular, mas é confrontado e derrotado por Fern. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
-        "tags": ["demônio", "manipulador", "magia de sangue"],
-        "relacionados": ["Aura, a Guilhotina", "Fern", "Linie"],
-        "fontes": [],
-        "imagens": [
-            {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-10-2.png",
-                "licenca": "Fair Use"
-            }
-        ]
-    },
-    {
-        "titulo": "Linie",
-        "tipo": "Demônio",
-        "descricao": "Uma assistente de Lügner, especializada em ler o mana de seus oponentes para copiar perfeitamente seus movimentos e técnicas de combate. Ela enfrenta Stark em um duelo, onde sua habilidade de imitar mana é posta à prova contra a força bruta do guerreiro. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
-        "tags": ["demônio", "imitação de mana", "combate"],
-        "relacionados": ["Aura, a Guilhotina", "Lügner", "Stark"],
-        "fontes": [],
-        "imagens": [
-            {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-11.png",
-                "licenca": "Fair Use"
-            }
-        ]
-    },
-    {
         "titulo": "Serie",
         "tipo": "Personagem",
         "descricao": "Uma maga elfa ancestral que vive desde a era mítica. Ela foi a mentora de Flamme e é a fundadora da Associação Continental de Magos. Possui um poder mágico imensurável e uma perspectiva pragmática e fria sobre a magia e os magos. Primeira aparição: Mangá Capítulo 37, Anime Episódio 17.",
         "tags": ["elfa", "maga", "lenda viva", "Associação Continental de Magos"],
         "relacionados": ["Flamme", "Frieren", "Fern", "Genau", "Sense"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Serie"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/02/chara15_thumb.png",
@@ -203,7 +176,12 @@
         "descricao": "Um mago imperial veterano e participante do Exame de Maga de Primeira Classe. Apesar de sua idade avançada, ele é um combatente astuto e poderoso, com um forte senso de dever e um passado ligado a conflitos com demônios. Ele desenvolve um respeito mútuo por Frieren. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["mago imperial", "veterano", "exame"],
         "relacionados": ["Laufen", "Richter", "Frieren", "Fern"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Denken"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara05_thumb.png",
@@ -217,7 +195,12 @@
         "descricao": "Uma maga talentosa e participante do Exame de Maga de Primeira Classe, conhecida por sua magia de corte, Reelseiden. Ela tem uma personalidade excêntrica e uma empatia peculiar, que lhe permite entender e usar magias de outros magos. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["maga", "exame", "magia de corte"],
         "relacionados": ["Land", "Wirbel", "Genau"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/%C3%9Cbel"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara04_thumb.png",
@@ -231,24 +214,15 @@
         "descricao": "Um mago de segunda classe e capitão do Corpo de Magos do Norte. Ele é um especialista em combate com vasta experiência em batalhas reais contra demônios. Participa do exame para se tornar um mago de primeira classe e lidera um dos grupos na primeira etapa. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["mago", "capitão", "exame", "combate"],
         "relacionados": ["Übel", "Ehre", "Frieren", "Fern"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Wirbel"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara03_thumb.png",
-                "licenca": "Fair Use"
-            }
-        ]
-    },
-    {
-        "titulo": "Qual",
-        "tipo": "Demônio",
-        "descricao": "Um antigo Sábio da Destruição que serviu ao Rei Demônio. Ele foi o criador da 'Magia para Matar Humanos' (Zoltraak). Foi selado por Frieren e o grupo do herói durante sua jornada original. Décadas depois, o selo enfraquece e ele é confrontado por Frieren e Fern. Primeira aparição: Mangá Capítulo 4 (flashback), Anime Episódio 2 (flashback).",
-        "tags": ["demônio", "Sete Sábios da Destruição", "Zoltraak"],
-        "relacionados": ["Zoltraak", "Frieren", "Rei Demônio"],
-        "fontes": [],
-        "imagens": [
-            {
-                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-8.png",
                 "licenca": "Fair Use"
             }
         ]
@@ -259,7 +233,12 @@
         "descricao": "Um mago de primeira classe e um dos examinadores do Exame de Maga de Primeira Classe, trabalhando sob a supervisão de Serie. Ele é sério, pragmático e extremamente habilidoso, agindo como um guardião na primeira etapa do exame. Primeira aparição: Mangá Capítulo 37, Anime Episódio 18.",
         "tags": ["mago de primeira classe", "exame", "examinador"],
         "relacionados": ["Serie", "Sense", "Fern", "Übel"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Genau"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara11_thumb.png",
@@ -273,7 +252,12 @@
         "descricao": "Uma maga de primeira classe e a examinadora responsável pela segunda etapa do Exame de Maga de Primeira Classe. Ela tem uma personalidade calma e indiferente, e projeta um desafio em uma masmorra (dungeon) que testa a capacidade de análise e sobrevivência dos candidatos. Primeira aparição: Mangá Capítulo 44, Anime Episódio 21.",
         "tags": ["maga de primeira classe", "exame", "examinadora"],
         "relacionados": ["Serie", "Genau", "Frieren", "Fern"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Sense"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara10_thumb.png",
@@ -287,7 +271,12 @@
         "descricao": "Uma jovem maga que participa do Exame de Maga de Primeira Classe. Ela faz parte do grupo de Denken. É rápida e especializada em magia de movimento. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["maga", "exame"],
         "relacionados": ["Denken", "Richter"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Laufen"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara08_thumb.png",
@@ -301,7 +290,12 @@
         "descricao": "Um mago poderoso e pragmático que participa do Exame de Maga de Primeira Classe, formando um grupo com Denken e Laufen. Ele é especialista em magia de terra. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["mago", "exame", "magia de terra"],
         "relacionados": ["Denken", "Laufen"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Richter"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara07_thumb.png",
@@ -315,7 +309,12 @@
         "descricao": "Um mago que participa do Exame de Maga de Primeira Classe. Ele se junta ao grupo de Übel. É especialista em criar clones perfeitos de si mesmo, o que o torna um adversário confuso e evasivo. Primeira aparição: Mangá Capítulo 40, Anime Episódio 18.",
         "tags": ["mago", "exame", "clones"],
         "relacionados": ["Übel"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Land"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara06_thumb.png",
@@ -329,7 +328,12 @@
         "descricao": "Uma maga que participa do Exame de Maga de Primeira Classe. Ela tem uma rivalidade de longa data com sua parceira de equipe, Kanne, mas as duas trabalham bem juntas. É especialista em magia de gelo. Primeira aparição: Mangá Capítulo 38, Anime Episódio 18.",
         "tags": ["maga", "exame", "magia de gelo"],
         "relacionados": ["Kanne", "Wirbel"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Lawine"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara02_thumb.png",
@@ -343,7 +347,12 @@
         "descricao": "Uma maga que participa do Exame de Maga de Primeira Classe. Ela é parceira de Lawine, com quem tem uma relação de amor e ódio. Sua especialidade é a magia de controle de água, que se torna extremamente poderosa quando chove. Primeira aparição: Mangá Capítulo 38, Anime Episódio 18.",
         "tags": ["maga", "exame", "magia de água"],
         "relacionados": ["Lawine", "Wirbel"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Kanne"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara01_thumb.png",
@@ -357,12 +366,216 @@
         "descricao": "Uma maga que participa do Exame de Maga de Primeira Classe, fazendo parte do grupo de Wirbel. Ela é orgulhosa de sua formação como maga de uma família nobre. Primeira aparição: Mangá Capítulo 41, Anime Episódio 19.",
         "tags": ["maga", "exame", "nobreza"],
         "relacionados": ["Wirbel"],
-        "fontes": [],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Ehre"
+            }
+        ],
         "imagens": [
             {
                 "url": "https://frieren-anime.jp/wp-content/uploads/2024/01/chara09_thumb.png",
                 "licenca": "Fair Use"
             }
         ]
+    },
+    {
+        "titulo": "Conde Granat",
+        "tipo": "Personagem",
+        "descricao": "O nobre que governa a cidade fortificada na fronteira norte. Ele tem um profundo ódio por demônios devido à perda de sua família. Inicialmente desconfiado de Frieren, ele acaba por confiar nela para proteger sua cidade da ameaça de Aura e seus subordinados. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
+        "tags": ["humano", "nobre", "conde"],
+        "relacionados": ["Frieren", "Lügner", "Aura, a Guilhotina"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Granat"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/10/chara1_thumb.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Guerreiro Gorila",
+        "tipo": "Personagem",
+        "descricao": "Um aventureiro e amigo de infância de Sein. Ele partiu em uma jornada de dez anos para se tornar um grande aventureiro, prometendo se reencontrar com Sein. A busca por seu amigo é o que motiva Sein a se separar do grupo de Frieren, seguindo uma trilha de rumores sobre um 'guerreiro forte como um gorila'.",
+        "tags": ["humano", "aventureiro", "amigo de infância"],
+        "relacionados": ["Sein"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Gorilla_Warrior"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/themes/frieren_2023/assets/img/special/icon/019.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Stoltz",
+        "tipo": "Personagem",
+        "descricao": "O irmão mais velho de Stark e um guerreiro prodígio da Vila dos Guerreiros. Ao contrário de Stark, Stoltz nunca sentiu medo em batalha e era visto como o verdadeiro herdeiro do legado de sua vila. Sua memória e a pressão de seu talento assombram Stark por muitos anos. Primeira aparição: Mangá Capítulo 12 (flashback), Anime Episódio 6 (flashback).",
+        "tags": ["humano", "guerreiro", "irmão", "flashback"],
+        "relacionados": ["Stark", "Eisen"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Stoltz"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/themes/frieren_2023/assets/img/special/icon/017.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Voll",
+        "tipo": "Personagem",
+        "descricao": "Um velho anão guerreiro e amigo de longa data de Eisen. Ele vive em uma vila pacífica, protegendo-a e cuidando do túmulo de sua esposa por décadas. Seu encontro com o grupo de Frieren serve como uma reflexão sobre como as raças de vida longa lidam com a passagem do tempo e a perda. Primeira aparição: Mangá Capítulo 34, Anime Episódio 16.",
+        "tags": ["anão", "guerreiro", "tempo", "memória"],
+        "relacionados": ["Eisen", "Frieren", "Stark"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Voll"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/themes/frieren_2023/assets/img/special/icon/022.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Lügner",
+        "tipo": "Demônio",
+        "descricao": "Um demônio servindo sob o comando de Aura. Ele se infiltra em uma cidade humana disfarçado de 'enviado da paz' para enfraquecer suas defesas. É um demônio eloquente que usa palavras para manipular. Seu comportamento ilustra o conceito de demônios no universo de Frieren. Ele é capaz de ser convincente ao conversar com seus interlocutores humanos, mas admite que não compreende os conceitos que usa (quase como um chatbot moderno). Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
+        "tags": ["demônio", "manipulador", "magia de sangue"],
+        "relacionados": ["Aura, a Guilhotina", "Fern", "Linie"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/L%C3%BCgner"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-10-2.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Linie",
+        "tipo": "Demônio",
+        "descricao": "Uma assistente de Lügner, especializada em ler o mana de seus oponentes para copiar perfeitamente seus movimentos e técnicas de combate. Ela enfrenta Stark em um duelo, onde sua habilidade de imitar mana é posta à prova contra a força bruta do guerreiro. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
+        "tags": ["demônio", "imitação de mana", "combate"],
+        "relacionados": ["Aura, a Guilhotina", "Lügner", "Stark"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Linie"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-11.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Draht",
+        "tipo": "Demônio",
+        "descricao": "Um dos subordinados de Lügner, enviado para assassinar o Conde Granat. Ele é um especialista em usar fios de mana para o combate. Seu excesso de confiança também é característica destas criaturas no universo de Frieren, em maior ou menor grau. O fato desse ser um ponto fraco recorrente em criaturas que, de outra forma, são invariavelmente superiores aos humanos, parece ser uma das oportunidades de crítica de comportamento na obra. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
+        "tags": ["demônio", "fios de mana", "assassino"],
+        "relacionados": ["Lügner", "Aura, a Guilhotina", "Fern", "Stark"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Draht"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-12.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Aura, a Guilhotina",
+        "tipo": "Demônio",
+        "descricao": "Uma dos Sete Sábios da Destruição, servindo diretamente ao Rei Demônio. Sua magia, Auserlese, permite que ela controle aqueles com mana inferior à sua através de sua Balança da Obediência. Ela ilustra a dependência e orgulho que os demônios do universo de Frieren têm de sua mana. A obra compara o relacionamento dos demônios com a mana com aquele dos humanos com o dinheiro, através da ostentação. Como tal, parece mais uma oportunidade de crítica social na obra. Primeira aparição: Mangá Capítulo 17, Anime Episódio 8.",
+        "tags": ["demônio", "Sete Sábios da Destruição", "Aschenputtel"],
+        "relacionados": ["Frieren", "Lügner", "Linie", "Rei Demônio"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Aura"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-9-1.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Qual",
+        "tipo": "Demônio",
+        "descricao": "Um antigo Sábio da Destruição que serviu ao Rei Demônio. Ele foi o criador da 'Magia para Matar Humanos' (Zoltraak). Foi selado por Frieren e o grupo do herói durante sua jornada original. Décadas depois, o selo enfraquece. A história de Qual e Zoltraack é bem interessante ao exemplificar a origem e funcionamento da magia no universo de Frieren. Primeira aparição: Mangá Capítulo 4 (flashback), Anime Episódio 2 (flashback).",
+        "tags": ["demônio", "Sete Sábios da Destruição", "Zoltraak"],
+        "relacionados": ["Zoltraak", "Frieren", "Rei Demônio"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Qual"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/uploads/2023/09/chara1_thumb-8.png",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
+        "titulo": "Schlacht, o Onisciente",
+        "tipo": "Demônio",
+        "descricao": "Um dos Sete Sábios da Destruição e um dos demônios mais temidos que serviram ao Rei Demônio. Schlacht possuía a habilidade de ver o futuro, o que o tornava um adversário extremamente perigoso para o grupo do herói. Frieren o menciona como um dos demônios mais difíceis que já enfrentou.",
+        "tags": ["demônio", "Sete Sábios da Destruição", "futuro", "previsão"],
+        "relacionados": ["Rei Demônio", "Frieren", "Himmel"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Schlacht"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Rei Demônio",
+        "tipo": "Demônio",
+        "descricao": "O antagonista supremo da era passada e o governante de todos os demônios. Sua existência ameaçou mergulhar o mundo na escuridão, levando à formação do grupo do herói para derrotá-lo. Embora nunca seja visto diretamente na história, seu poder e legado são a base para toda a jornada original de Frieren e Himmel. Foi derrotado após uma jornada de 10 anos. Frieren tem um enredo marcado por várias diferenças em relação ao caminho do herói tradicional, e essa é uma das fundamentais. O maior vilão foi vencido antes da narrativa começar. Primeira menção: Mangá Capítulo 1, Anime Episódio 1.",
+        "tags": ["rei demônio", "antagonista", "guerra", "lenda"],
+        "relacionados": ["Frieren", "Himmel", "Eisen", "Heiter", "Sete Sábios da Destruição"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Demon_King"
+            }
+        ],
+        "imagens": []
     }
 ]
