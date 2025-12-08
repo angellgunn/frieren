@@ -143,6 +143,18 @@ article p {
     color: var(--secondary-color); /* Cor do texto */
 }
 
+article p {
+    /* Trunca o texto para no máximo 3 linhas */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+article:hover p, article.card-expandido p {
+    -webkit-line-clamp: unset; /* Remove o limite de linhas para mostrar o texto completo */
+}
+
 article p strong {
     color: var(--tertiary-color); /* Cor do texto em negrito */
     font-weight: 400; /* Peso da fonte */

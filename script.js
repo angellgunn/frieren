@@ -75,6 +75,20 @@ function renderizarCards(entradas) {
             </div>
         `;
         cardContainer.appendChild(article);
+
+        // Adiciona evento de clique para expandir/recolher o card
+        article.addEventListener('click', () => {
+            // Verifica se o card clicado já está expandido
+            const isExpanded = article.classList.contains('card-expandido');
+
+            // Remove a classe de todos os cards
+            document.querySelectorAll('.card-container article').forEach(card => card.classList.remove('card-expandido'));
+
+            // Se o card não estava expandido, expande ele
+            if (!isExpanded) {
+                article.classList.add('card-expandido');
+            }
+        });
     }
 }
 
