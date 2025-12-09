@@ -458,7 +458,7 @@
     {
         "titulo": "Lügner",
         "tipo": "Demônio",
-        "descricao": "Um demônio servindo sob o comando de Aura. Ele se infiltra em uma cidade humana disfarçado de 'enviado da paz' para enfraquecer suas defesas. É um demônio eloquente que usa palavras para manipular. Seu comportamento ilustra o conceito de demônios no universo de Frieren. Ele é capaz de ser convincente ao conversar com seus interlocutores humanos, mas admite que não compreende os conceitos que usa (quase como um chatbot moderno). Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
+        "descricao": "Um demônio servindo sob o comando de Aura. Ele se infiltra em uma cidade humana disfarçado de 'enviado da paz' para enfraquecer suas defesas. É um demônio eloquente que usa palavras para manipular. Seu comportamento ilustra o conceito de demônios no universo de Frieren. Ele é capaz de ser convincente ao conversar com seus interlocutores humanos, mas admite que não compreende os conceitos que usa. Isso me lembra um pouco o conceito de \"zumbi filosófico\". Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
         "tags": ["demônio", "manipulador", "magia de sangue"],
         "relacionados": ["Aura, a Guilhotina", "Fern", "Linie"],
         "fontes": [
@@ -477,7 +477,7 @@
     {
         "titulo": "Linie",
         "tipo": "Demônio",
-        "descricao": "Uma assistente de Lügner, especializada em ler o mana de seus oponentes para copiar perfeitamente seus movimentos e técnicas de combate. Ela enfrenta Stark em um duelo, onde sua habilidade de imitar mana é posta à prova contra a força bruta do guerreiro. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
+        "descricao": "Uma assistente de Lügner, especializada em ler o mana de seus oponentes para copiar perfeitamente seus movimentos e técnicas de combate. Essa é outra característica marcante dos demônios do universo de Frieren, a capacidade de imitar o comportamento e habilidades humanos, até mesmo as emoções e expressões, porém sem nunca experimentar nenhum estado interior humano. Embora não se afirme isso no mangá ou anime, comentaristas já os compararam a zumbis filosóficos. Primeira aparição: Mangá Capítulo 14, Anime Episódio 7.",
         "tags": ["demônio", "imitação de mana", "combate"],
         "relacionados": ["Aura, a Guilhotina", "Lügner", "Stark"],
         "fontes": [
@@ -516,7 +516,7 @@
         "titulo": "Aura, a Guilhotina",
         "tipo": "Demônio",
         "descricao": "Uma dos Sete Sábios da Destruição, servindo diretamente ao Rei Demônio. Sua magia, Auserlese, permite que ela controle aqueles com mana inferior à sua através de sua Balança da Obediência. Ela ilustra a dependência e orgulho que os demônios do universo de Frieren têm de sua mana. A obra compara o relacionamento dos demônios com a mana com aquele dos humanos com o dinheiro, através da ostentação. Como tal, parece mais uma oportunidade de crítica social na obra. Primeira aparição: Mangá Capítulo 17, Anime Episódio 8.",
-        "tags": ["demônio", "Sete Sábios da Destruição", "Aschenputtel"],
+        "tags": ["demônio", "Sete Sábios da Destruição", "Auserlese", "Balança da Obediência"],
         "relacionados": ["Frieren", "Lügner", "Linie", "Rei Demônio"],
         "fontes": [
             {
@@ -553,7 +553,7 @@
     {
         "titulo": "Schlacht, o Onisciente",
         "tipo": "Demônio",
-        "descricao": "Um dos Sete Sábios da Destruição e um dos demônios mais temidos que serviram ao Rei Demônio. Schlacht possuía a habilidade de ver o futuro, o que o tornava um adversário extremamente perigoso para o grupo do herói. Frieren o menciona como um dos demônios mais difíceis que já enfrentou.",
+        "descricao": "Um dos Sete Sábios da Destruição e um dos demônios mais temidos que serviram ao Rei Demônio, sendo seu confidente e segundo em comando. Schlacht possuía a habilidade de ver o futuro, o que o tornava um adversário extremamente perigoso para o grupo do herói. Frieren o menciona como um dos demônios mais difíceis que já enfrentou. Ele exemplifica a ideia de que, no universo de Frieren, os demônios dependem fortemente de suas habilidades inatas (neste caso, a previsão do futuro) para dominar os humanos, que são inerentemente mais versáteis, apesar de mais fracos. Primeira aparição: Mangá Capítulo 63.",
         "tags": ["demônio", "Sete Sábios da Destruição", "futuro", "previsão"],
         "relacionados": ["Rei Demônio", "Frieren", "Himmel"],
         "fontes": [
@@ -562,7 +562,12 @@
                 "url": "https://frieren.fandom.com/wiki/Schlacht"
             }
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://static.wikia.nocookie.net/frieren/images/7/74/Schlacht.png",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Rei Demônio",
