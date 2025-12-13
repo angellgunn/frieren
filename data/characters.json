@@ -582,5 +582,24 @@
             }
         ],
         "imagens": []
+    },
+    {
+        "titulo": "Kraft",
+        "tipo": "Personagem",
+        "descricao": "Um monge elfo que o grupo de Frieren encontra nas rigorosas terras do norte. Kraft dedicou sua longa vida à fé na Deusa e, em um passado distante, foi um herói que salvou uma vila de um demônio. Assim como Himmel, ele esperava que alguém se lembrasse de seus feitos através de uma estátua, mas o tempo apagou sua memória do povo. Seu encontro com Frieren reforça os temas da mortalidade, fé e o desejo de ser lembrado. Primeira aparição: Mangá Capítulo 31, Anime Episódio 15.",
+        "tags": ["elfo", "monge", "fé", "memória", "herói"],
+        "relacionados": ["Frieren", "Stark", "Fern"],
+        "fontes": [
+            {
+                "nome": "Frieren Wiki (EN)",
+                "url": "https://frieren.fandom.com/wiki/Kraft"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://frieren-anime.jp/wp-content/themes/frieren_2023/assets/img/special/icon/015.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
     }
 ]

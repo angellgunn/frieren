@@ -101,6 +101,9 @@ function filtrarPorTipo(evento) {
 
     if (tipoFiltro === "todos") {
         renderizarCards(dados);
+    } else if (tipoFiltro === "equipe-producao") {
+        const dadosFiltrados = dados.filter(dado => dado.tipo === "Equipe" || dado.tipo === "Produção");
+        renderizarCards(dadosFiltrados);
     } else {
         const dadosFiltrados = dados.filter(dado => dado.tipo === tipoFiltro);
         renderizarCards(dadosFiltrados);

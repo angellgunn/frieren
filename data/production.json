@@ -18,19 +18,15 @@
         "imagens": []
     },
     {
-        "titulo": "Elenco de Voz e Versão em Português do Brasil",
+        "titulo": "Elenco de Voz Japonês (Seiyuu)",
         "tipo": "Produção",
-        "descricao": "O elenco de voz japonês (seiyuu) de 'Frieren e a Jornada para o Além' é composto por talentos notáveis que dão vida aos personagens. Atsumi Tanezaki interpreta Frieren, Kana Ichinose é Fern, Chiaki Kobayashi dá voz a Stark, e Nobuhiko Okamoto é Himmel. Outros membros importantes incluem Hiroki Touchi como Heiter, Yoji Ueda como Eisen, Atsuko Tanaka como Flamme e Aya Hisakawa como Serie. A série está disponível com legendas e dublagem oficial em português do Brasil através da plataforma Crunchyroll, permitindo que o público lusófono desfrute da história com alta qualidade.",
-        "tags": ["dublagem", "seiyuu", "atores de voz", "português", "japonês", "Crunchyroll"],
-        "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen", "Flamme", "Serie"],
+        "descricao": "O elenco de voz original japonês (seiyuu) de 'Frieren' é composto por talentos notáveis que dão vida aos personagens. A protagonista Frieren é interpretada por Atsumi Tanezaki. Seus companheiros de jornada, Fern e Stark, são dublados por Kana Ichinose e Chiaki Kobayashi, respectivamente. O grupo original de heróis conta com Nobuhiko Okamoto como Himmel, Hiroki Tochi como Heiter e Yoji Ueda como Eisen. Personagens importantes do arco do Exame de Maga de Primeira Classe incluem Atsuko Tanaka como Flamme, Mariya Ise como Serie, Takehito Koyasu como Kraft, e Taniyama Kishō como Übel.",
+        "tags": ["seiyuu", "atores de voz", "japonês"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen", "Flamme", "Serie", "Kraft", "Übel"],
         "fontes": [
             {
                 "nome": "Site Oficial do Anime Frieren",
                 "url": "https://frieren-anime.jp/character/"
-            },
-            {
-                "nome": "Crunchyroll - Frieren",
-                "url": "https://www.crunchyroll.com/pt-br/series/GZJHMM1ME/frieren-beyond-journeys-end"
             }
         ],
         "imagens": []
@@ -56,7 +52,7 @@
     {
         "titulo": "Tsukasa Abe",
         "tipo": "Equipe",
-        "descricao": "Tsukasa Abe é artista responsável pela ilustração do mangá 'Frieren'. Sendo este seu primeiro trabalho de grande serialização, seu traço detalhado foi fundamental para definir a identidade visual da obra, capturando a atmosfera e a beleza de seu mundo. Em 2015, ganhou um prêmio no New Generation Sunday Award da revista Weekly Shōnen Sunday. Sua estréia foi com a obra Canon, publicada na revista Shōnen Sunday S em 2017. Em 2018, ganhou uma menção honrosa no Shogakukan Newcomer Comic Award na categoria shōnen, por MEET UP. Eisen é o seu personagem favorito, por ter constituído um desafio interessante de desenhar. É fã de Persona 3.",
+        "descricao": "Tsukasa Abe (アベツカサ Abe Tsukasa, nascimento: 1995) é artista responsável pela ilustração do mangá 'Frieren'. Sendo este seu primeiro trabalho de grande serialização, seu traço detalhado foi fundamental para definir a identidade visual da obra, capturando a atmosfera e a beleza de seu mundo. Em 2015, ganhou um prêmio no New Generation Sunday Award da revista Weekly Shōnen Sunday. Sua estréia foi com a obra Canon, publicada na revista Shōnen Sunday S em 2017. Em 2018, ganhou uma menção honrosa no Shogakukan Newcomer Comic Award na categoria shōnen, por MEET UP. Eisen é o seu personagem favorito, por ter constituído um desafio interessante de desenhar. É fã de Persona 3.",
         "tags": ["autor", "mangá", "ilustrador"],
         "relacionados": ["Kanehito Yamada", "Shogakukan", "Staff e Produção"],
         "fontes": [
@@ -115,7 +111,7 @@
     {
         "titulo": "Trilha Sonora de Frieren",
         "tipo": "Produção",
-        "descricao": "Composta por Evan Call, a trilha sonora do anime é amplamente elogiada por capturar a essência da série. Além da música instrumental, a produção se destaca pelos temas de abertura e encerramento. A primeira abertura, 'Yuusha' da dupla YOASOBI, tornou-se um sucesso global. O encerramento, 'Anytime Anywhere' da cantora milet, complementa o tom melancólico e esperançoso da jornada.",
+        "descricao": "Composta por Evan Call, a trilha sonora do anime é amplamente elogiada por capturar a essência da série. Além da música instrumental, a produção se destaca pelos temas de abertura e encerramento. A primeira abertura, 'Yuusha' da dupla YOASOBI, tornou-se um sucesso global. O encerramento, 'Anytime Anywhere' da cantora milet, complementa o tom melancólico e esperançoso da jornada. Evan Call ganhou o prêmio de Melhor Som e Performance no Tokyo Anime Award Festival em 2025. Anytime Anywhere ganhou o Daruma de melhor encerramento no Japan Expo Awards em 2024.",
         "tags": ["anime", "trilha sonora", "evan call"],
         "relacionados": ["Evan Call", "Staff e Produção"],
         "fontes": [
@@ -180,7 +176,7 @@
     {
         "titulo": "Equipe de Animação Principal",
         "tipo": "Equipe",
-        "descricao": "A qualidade visual do anime de 'Frieren' é resultado do trabalho de uma equipe talentosa. Reiko Nagasawa, como designer de personagens, adaptou o traço de Tsukasa Abe para a animação. Tomohiro Suzuki foi o responsável pela composição da série, estruturando o roteiro dos episódios. A direção de arte de Sawako Takagi criou os cenários deslumbrantes, enquanto a direção de fotografia de Akane Fushihara capturou a atmosfera melancólica e épica da jornada.",
+        "descricao": "A qualidade visual do anime de 'Frieren' é resultado do trabalho de uma equipe talentosa. Reiko Nagasawa, como designer de personagens, adaptou o traço de Tsukasa Abe para a animação. Tomohiro Suzuki foi o responsável pela composição da série, estruturando o roteiro dos episódios. A direção de arte de Sawako Takagi criou os cenários deslumbrantes, enquanto a direção de fotografia de Akane Fushihara capturou a atmosfera melancólica e épica da jornada. A direção de som coube a Shōji Hata, enquanto a direção de ação ficou com Toru Iwasawa. Direção de cores Harue Ono, arte conceitual Seiko Yoshioka e edição de Kashiko Kimura.",
         "tags": ["animação", "design de personagens", "roteiro", "direção de arte"],
         "relacionados": ["Keiichiro Saito", "Staff e Produção"],
         "fontes": [
@@ -201,6 +197,60 @@
             {
                 "nome": "Site Oficial do Madhouse",
                 "url": "https://www.madhouse.co.jp/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Milet e 'Anytime Anywhere'",
+        "tipo": "Produção",
+        "descricao": "A cantora e compositora japonesa Milet (ミレイ, Mirei) é a voz por trás de 'Anytime Anywhere', o tema de encerramento da primeira temporada do anime. A canção, com composição e arranjos de Evan Call, captura a atmosfera melancólica e esperançosa da série. Ela ficou entre as 10 faixas digitais mais populares no Japão em 2023, ultrapassando 41 milhões de streams no Spotify e 44 milhões de visualizações no YouTube no final de 2025. Milet estreou em 2019, e seu primeiro album, Eyes, alcançou primeiro lugar na Billboard japonesa.",
+        "tags": ["música", "encerramento", "milet", "Anytime Anywhere", "Evan Call"],
+        "relacionados": ["Trilha Sonora de Frieren", "Evan Call", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Site Oficial da milet",
+                "url": "https://www.milet.jp/"
+            },
+            {
+                "nome": "Sony Music Japan (Gravadora)",
+                "url": "https://www.sonymusic.co.jp/artist/milet_music/"
+            },
+            {
+                "nome": "Certificação RIAJ (Ouro)",
+                "url": "https://www.riaj.or.jp/f/data/cert/st_search.html"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://www.milet.jp/img/milet-budokan-2026-photo.jpg",
+                "licenca": "Fair Use"
+            }
+        
+        ]
+    },
+    {
+        "titulo": "Elenco de Voz Brasileiro (Dublagem)",
+        "tipo": "Produção",
+        "descricao": "A versão brasileira de 'Frieren' foi produzida pelo estúdio Dubrasil e está disponível na Crunchyroll. O elenco principal conta com Jacque Souza como Frieren, Bruna Nogueira como Fern e André Rinaldi como Stark. O grupo original de heróis é dublado por Vágner Fagundes (Himmel), Cássius Romero (Heiter) e Mauro Ramos (Eisen). A direção de dublagem ficou a cargo de André Rinaldi, trazendo uma adaptação de alta qualidade para o público lusófono. Há vídeos no YouTube com as carismáticas dubladoras de Frieren e Fern.",
+        "tags": ["dublagem", "atores de voz", "português", "Crunchyroll", "Dubrasil"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen"],
+        "fontes": [
+            {
+                "nome": "Crunchyroll - Frieren",
+                "url": "https://www.crunchyroll.com/pt-br/series/GZJHMM1ME/frieren-beyond-journeys-end"
+            },
+            {
+                "nome": "Dublagem Wiki",
+                "url": "https://dublagem.fandom.com/wiki/Frieren_e_a_Jornada_para_o_Al%C3%A9m"
+            },
+            {
+                "nome": "Entrevista com Jacque Souza",
+                "url": "https://youtu.be/mGz6k3X_StA?si=R-CNIbu0sqDKDR-O"
+            },
+            {
+                "nome": "Entrevista com Bruna Nogueira",
+                "url": "https://youtu.be/jXl6UovCLuU?si=dIy38LYkLmIJIMlt"
             }
         ],
         "imagens": []
