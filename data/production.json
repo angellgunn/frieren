@@ -1,37 +1,5 @@
 [
     {
-        "titulo": "Staff e Produção do Anime",
-        "tipo": "Produção",
-        "descricao": "Baseada no mangá escrito por Kanehito Yamada e ilustrado por Tsukasa Abe. Adaptação para anime: estúdio Madhouse, direção de Keiichiro Saito. A composição da série ficou a cargo de Tomohiro Suzuki e o design de personagens por Reiko Nagasawa. A trilha sonora é de Evan Call. A produção do anime é da TOHO animation.",
-        "tags": ["produção", "staff", "estúdio", "mangá", "anime", "Madhouse", "Kanehito Yamada", "Tsukasa Abe", "Keiichiro Saito"],
-        "relacionados": ["Frieren"],
-        "fontes": [
-            {
-                "nome": "Site Oficial do Anime Frieren",
-                "url": "https://frieren-anime.jp/"
-            },
-            {
-                "nome": "MyAnimeList - Frieren",
-                "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
-            }
-        ],
-        "imagens": []
-    },
-    {
-        "titulo": "Elenco de Voz Japonês (Seiyuu)",
-        "tipo": "Produção",
-        "descricao": "O elenco de voz original japonês (seiyuu) de 'Frieren' é composto por talentos notáveis que dão vida aos personagens. A protagonista Frieren é interpretada por Atsumi Tanezaki. Seus companheiros de jornada, Fern e Stark, são dublados por Kana Ichinose e Chiaki Kobayashi, respectivamente. O grupo original de heróis conta com Nobuhiko Okamoto como Himmel, Hiroki Tochi como Heiter e Yoji Ueda como Eisen. Personagens importantes do arco do Exame de Maga de Primeira Classe incluem Atsuko Tanaka como Flamme, Mariya Ise como Serie, Takehito Koyasu como Kraft, e Taniyama Kishō como Übel.",
-        "tags": ["seiyuu", "atores de voz", "japonês"],
-        "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen", "Flamme", "Serie", "Kraft", "Übel"],
-        "fontes": [
-            {
-                "nome": "Site Oficial do Anime Frieren",
-                "url": "https://frieren-anime.jp/character/"
-            }
-        ],
-        "imagens": []
-    },
-    {
         "titulo": "Kanehito Yamada",
         "tipo": "Equipe",
         "descricao": "Kanehito Yamada (山田鐘人) é o roteirista e criador da história original do mangá 'Frieren'. Em 2010, ele foi admitido como assistente do mangaká <a ref='https://en.wikipedia.org/wiki/Tamiki_Wakaki'>Tamiki Wakaki</a>. Em 2021, foi premiado com o 'Manga Taishō' por seu trabalho em Frieren. Ganhou também o Shogakukan Manga Award em 2023 e o Kodansha Manga Award em 2024 pela mesma obra. Seu estilo é marcado pela profundidade emocional e exploração de temas existenciais. Temas recorrentes incluem a mortalidade, o valor das memórias e a natureza efêmera da vida, explorados através dos personagens que enfrentam perdas e buscam significado em suas jornadas. O autor lança mão, paradoxalmente, de uma protagonista imortal para explorar a transitoriedade da vida humana e a importância dos laços afetivos.",
@@ -118,41 +86,22 @@
         ]
     },
     {
-        "titulo": "Trilha Sonora de Frieren",
+        "titulo": "Staff e Produção do Anime",
         "tipo": "Produção",
-        "descricao": "Composta por Evan Call, a trilha sonora do anime é amplamente elogiada por capturar a essência da série. Além da música instrumental, a produção se destaca pelos temas de abertura e encerramento. A primeira abertura, 'Yuusha' da dupla YOASOBI, tornou-se um sucesso global. O encerramento, 'Anytime Anywhere' da cantora milet, complementa o tom melancólico e esperançoso da jornada. Evan Call ganhou o prêmio de Melhor Som e Performance no Tokyo Anime Award Festival em 2025. Anytime Anywhere ganhou o Daruma de melhor encerramento no Japan Expo Awards em 2024.",
-        "tags": ["anime", "trilha sonora", "evan call"],
-        "relacionados": ["Evan Call", "Staff e Produção"],
+        "descricao": "Baseada no mangá escrito por Kanehito Yamada e ilustrado por Tsukasa Abe. Adaptação para anime: estúdio Madhouse, direção de Keiichiro Saito. A composição da série ficou a cargo de Tomohiro Suzuki e o design de personagens por Reiko Nagasawa. A trilha sonora é de Evan Call. A produção do anime é da TOHO animation.",
+        "tags": ["produção", "staff", "estúdio", "mangá", "anime", "Madhouse", "Kanehito Yamada", "Tsukasa Abe", "Keiichiro Saito"],
+        "relacionados": ["Frieren"],
         "fontes": [
             {
-                "nome": "Site Oficial - Música",
-                "url": "https://frieren-anime.jp/music/"
+                "nome": "Site Oficial do Anime Frieren",
+                "url": "https://frieren-anime.jp/"
+            },
+            {
+                "nome": "MyAnimeList - Frieren",
+                "url": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
             }
         ],
         "imagens": []
-    },
-    {
-        "titulo": "Evan Call",
-        "tipo": "Equipe",
-        "descricao": "Evan Call (nascido na California em 1988), graduou-se pelo Berklee College of Music na área de composições musicais para cinema. Após mudar-se para o Japão, juntou-se ao grupo <a href='https://en.wikipedia.org/wiki/Elements_Garden'>Elements Garden</a> e começou a compor em 2012, ganhando notoriedade por arranjos grandiosos e música sinfônica impressionante. Antes de 'Frieren', ele compôs para séries como 'Violet Evergarden', 'My Happy Marriage', entre outras. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual. Ele também participou da composição e arranjos da música 'Anytime Anywhere' de Milet, música de encerramento do anime. Ele ganhou o prêmio de 'Melhor Som e Performance' no Tokyo Anime Award Festival de 2025 pelo seu trabalho em Frieren.",
-        "tags": ["compositor", "trilha sonora", "anime"],
-        "relacionados": ["Trilha Sonora de Frieren", "Staff e Produção"],
-        "fontes": [
-            {
-                "nome": "Wikipedia (EN)",
-                "url": "https://en.wikipedia.org/wiki/Evan_Call"
-            },
-            {
-                "nome": "Youtube - Evan Call",
-                "url": "https://youtu.be/mhle3t5XAxw?si=VwrKjT5uci8ueTgI"
-            }
-        ],
-        "imagens": [
-            {
-                "url": "https://img.youtube.com/vi/mhle3t5XAxw/maxres1.jpg",
-                "licenca": "Fair Use"
-            }
-        ]
     },
     {
         "titulo": "Keiichiro Saito",
@@ -211,6 +160,43 @@
         "imagens": []
     },
     {
+        "titulo": "Trilha Sonora de Frieren",
+        "tipo": "Produção",
+        "descricao": "Composta por Evan Call, a trilha sonora do anime é amplamente elogiada por capturar a essência da série. Além da música instrumental, a produção se destaca pelos temas de abertura e encerramento. A primeira abertura, 'Yuusha' da dupla YOASOBI, tornou-se um sucesso global. O encerramento, 'Anytime Anywhere' da cantora milet, complementa o tom melancólico e esperançoso da jornada. Evan Call ganhou o prêmio de Melhor Som e Performance no Tokyo Anime Award Festival em 2025. Anytime Anywhere ganhou o Daruma de melhor encerramento no Japan Expo Awards em 2024.",
+        "tags": ["anime", "trilha sonora", "evan call"],
+        "relacionados": ["Evan Call", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Site Oficial - Música",
+                "url": "https://frieren-anime.jp/music/"
+            }
+        ],
+        "imagens": []
+    },
+    {
+        "titulo": "Evan Call",
+        "tipo": "Equipe",
+        "descricao": "Evan Call (nascido na California em 1988), graduou-se pelo Berklee College of Music na área de composições musicais para cinema. Após mudar-se para o Japão, juntou-se ao grupo <a href='https://en.wikipedia.org/wiki/Elements_Garden'>Elements Garden</a> e começou a compor em 2012, ganhando notoriedade por arranjos grandiosos e música sinfônica impressionante. Antes de 'Frieren', ele compôs para séries como 'Violet Evergarden', 'My Happy Marriage', entre outras. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual. Ele também participou da composição e arranjos da música 'Anytime Anywhere' de Milet, música de encerramento do anime. Ele ganhou o prêmio de 'Melhor Som e Performance' no Tokyo Anime Award Festival de 2025 pelo seu trabalho em Frieren.",
+        "tags": ["compositor", "trilha sonora", "anime"],
+        "relacionados": ["Trilha Sonora de Frieren", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (EN)",
+                "url": "https://en.wikipedia.org/wiki/Evan_Call"
+            },
+            {
+                "nome": "Youtube - Evan Call",
+                "url": "https://youtu.be/mhle3t5XAxw?si=VwrKjT5uci8ueTgI"
+            }
+        ],
+        "imagens": [
+            {
+                "url": "https://img.youtube.com/vi/mhle3t5XAxw/maxres1.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
+    },
+    {
         "titulo": "Milet e 'Anytime Anywhere'",
         "tipo": "Produção",
         "descricao": "A cantora e compositora japonesa Milet (ミレイ, Mirei) é a voz por trás de 'Anytime Anywhere', o tema de encerramento da primeira temporada do anime. A canção, com composição e arranjos de Evan Call, captura a atmosfera melancólica e esperançosa da série. Ela ficou entre as 10 faixas digitais mais populares no Japão em 2023, ultrapassando 41 milhões de streams no Spotify e 44 milhões de visualizações no YouTube no final de 2025. Milet estreou em 2019, e seu primeiro album, Eyes, alcançou primeiro lugar na Billboard japonesa.",
@@ -237,6 +223,20 @@
             }
         
         ]
+    },
+    {
+        "titulo": "Elenco de Voz Japonês (Seiyuu)",
+        "tipo": "Produção",
+        "descricao": "O elenco de voz original japonês (seiyuu) de 'Frieren' é composto por talentos notáveis que dão vida aos personagens. A protagonista Frieren é interpretada por Atsumi Tanezaki. Seus companheiros de jornada, Fern e Stark, são dublados por Kana Ichinose e Chiaki Kobayashi, respectivamente. O grupo original de heróis conta com Nobuhiko Okamoto como Himmel, Hiroki Tochi como Heiter e Yoji Ueda como Eisen. Personagens importantes do arco do Exame de Maga de Primeira Classe incluem Atsuko Tanaka como Flamme, Mariya Ise como Serie, Takehito Koyasu como Kraft, e Taniyama Kishō como Übel.",
+        "tags": ["seiyuu", "atores de voz", "japonês"],
+        "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen", "Flamme", "Serie", "Kraft", "Übel"],
+        "fontes": [
+            {
+                "nome": "Site Oficial do Anime Frieren",
+                "url": "https://frieren-anime.jp/character/"
+            }
+        ],
+        "imagens": []
     },
     {
         "titulo": "Elenco de Voz Brasileiro (Dublagem)",
