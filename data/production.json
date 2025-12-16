@@ -1,6 +1,6 @@
 [
     {
-        "titulo": "Staff e Produção",
+        "titulo": "Staff e Produção do Anime",
         "tipo": "Produção",
         "descricao": "Baseada no mangá escrito por Kanehito Yamada e ilustrado por Tsukasa Abe. Adaptação para anime: estúdio Madhouse, direção de Keiichiro Saito. A composição da série ficou a cargo de Tomohiro Suzuki e o design de personagens por Reiko Nagasawa. A trilha sonora é de Evan Call. A produção do anime é da TOHO animation.",
         "tags": ["produção", "staff", "estúdio", "mangá", "anime", "Madhouse", "Kanehito Yamada", "Tsukasa Abe", "Keiichiro Saito"],
@@ -79,7 +79,7 @@
     {
         "titulo": "Shogakukan",
         "tipo": "Produção",
-        "descricao": "A Shogakukan é uma das maiores editoras do Japão, responsável pela publicação original do mangá 'Frieren' na revista Weekly Shōnen Sunday. A revista é histórica e já publicou obras de renome como 'Inuyasha' e 'Detective Conan'. A editora desempenha um papel crucial na curadoria e promoção da obra no mercado japonês.",
+        "descricao": "A Shogakukan é uma das maiores editoras do Japão, responsável pela publicação original do mangá 'Frieren' na revista Weekly Shōnen Sunday. A revista é histórica e já publicou obras de renome como 'Inuyasha' e 'Detective Conan'. Frieren começou a ser publicado em 2020 e rapidamente ganhou popularidade. A editora também organiza eventos e campanhas promocionais para ampliar o alcance do mangá. Em 2021, durante o Manga Taishō, o editor de Frieren, Katsuma Ogura, contou que, após a obra anterior de Yamada não ter ido bem (embora Ogura a considerasse uma obra prima), ele pediu a ele para criar algo novo. Ambos concordaram que seria importante acrescentar um artista no time e Ogura sugeriu uma história de herói na linha das produções premiadas de Yamada, porém com um toque de comédia. Yamada entregou o storyboard do primeiro capítulo e Ogura o mostrou para Abe, que aceitou o desafio de ilustrar a obra. Abe fez os designs de personagem, muito apreciados por Yamada.",
         "tags": ["editora", "japão", "mangá"],
         "relacionados": ["Kanehito Yamada", "Tsukasa Abe", "Editoras Internacionais"],
         "fontes": [
@@ -93,20 +93,29 @@
     {
         "titulo": "Editoras Internacionais",
         "tipo": "Produção",
-        "descricao": "O mangá de 'Frieren' foi licenciado para publicação em diversos países. No Brasil, a Panini Comics (através do selo Panini Mangá) é a responsável pela distribuição. Nos Estados Unidos, a Viz Media publica a obra sob o selo Viz Signature, voltado para um público mais maduro. Essas parcerias são essenciais para que a obra alcance um público global.",
+        "descricao": "O mangá de 'Frieren' foi licenciado para publicação em diversos países. No Brasil, a Panini Comics (através do selo Planet Mangá) é a responsável pela distribuição. Nos Estados Unidos, a Viz Media publica a obra. Em Portugal, Frieren sai em português europeu pela Devir. Essas parcerias são essenciais para que a obra alcance um público global. Apesar de não existirem estatísticas oficiais de vendas no Brasil, foi divulgado pela Shogakugan que o mangá tem mais de 30 milhoes de cópias em circulação atualmente.",
         "tags": ["editora", "internacional", "licenciamento"],
         "relacionados": ["Shogakukan"],
         "fontes": [
             {
                 "nome": "Panini Brasil",
-                "url": "https://www.panini.com.br/"
+                "url": "https://panini.com.br/frieren-e-a-jornada-para-o-alem-vol-1-asfri001r4?srsltid=AfmBOooSPV1YH0w09ZImZo47PL8h8GaB0qbVMoj6G8un5PR4edlzxgw7"
             },
             {
                 "nome": "Viz Media",
-                "url": "https://www.viz.com/"
+                "url": "https://www.viz.com/vizmanga/chapters/frieren-the-journeys-end"
+            },
+            {
+                "nome": "Editora Devir Portugal",
+                "url": "https://editoradevir.pt/livro/frieren01/"
             }
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://dwgkfo5b3odmw.cloudfront.net/manga/thumbs/thumb-90912-FrierenBeyondJourneysEnd_GN01_C1_Web-3-eU2RK0xRNdQ3vzY9wYRsmA.jpg",
+                "licenca": "Fair Use"
+            }
+        ]
     },
     {
         "titulo": "Trilha Sonora de Frieren",
@@ -232,7 +241,7 @@
     {
         "titulo": "Elenco de Voz Brasileiro (Dublagem)",
         "tipo": "Produção",
-        "descricao": "A versão brasileira de 'Frieren' foi produzida pelo estúdio Dubrasil e está disponível na Crunchyroll. O elenco principal conta com Jacque Souza como Frieren, Bruna Nogueira como Fern e André Rinaldi como Stark. O grupo original de heróis é dublado por Vágner Fagundes (Himmel), Cássius Romero (Heiter) e Mauro Ramos (Eisen). A direção de dublagem ficou a cargo de André Rinaldi, trazendo uma adaptação de alta qualidade para o público lusófono. Há vídeos no YouTube com as carismáticas dubladoras de Frieren e Fern.",
+        "descricao": "A versão dublada em português brasileiro de 'Frieren' foi produzida pelo estúdio Dubrasil e está disponível na Crunchyroll. O elenco principal conta com Jacque Souza como Frieren, Maria Clara Rosis como Fern e Lucas Miagusuku como Stark. O grupo original de heróis é dublado por Alexsander Vestri e Gilberto Baroli (Himmel jovem e idoso), Ettore Zuim (Heiter) e Sérgio Fortuna (Eisen). A direção de dublagem ficou a cargo de Guilherme Marques e Bruno Sangregório, trazendo uma adaptação de alta qualidade para o público lusófono. Há vídeos no YouTube com as carismáticas dubladoras de Frieren e Fern.",
         "tags": ["dublagem", "atores de voz", "português", "Crunchyroll", "Dubrasil"],
         "relacionados": ["Frieren", "Fern", "Stark", "Himmel", "Heiter", "Eisen"],
         "fontes": [
@@ -249,10 +258,15 @@
                 "url": "https://youtu.be/mGz6k3X_StA?si=R-CNIbu0sqDKDR-O"
             },
             {
-                "nome": "Entrevista com Bruna Nogueira",
-                "url": "https://youtu.be/jXl6UovCLuU?si=dIy38LYkLmIJIMlt"
+                "nome": "Entrevista com Maria Clara Rosis",
+                "url": "https://www.youtube.com/live/aIXrmw3hq5w?si=v7LY0jI91x1o6bbw"
             }
         ],
-        "imagens": []
+        "imagens": [
+            {
+                "url": "https://conteudo.imguol.com.br/c/entretenimento/00/2024/12/17/maria-clara-rosis-fern-jacque-souza-frieren-guilherme-marques-diretor-de-dublagem-e-lucas-miagusuku-stark-durante-a-ccxp-1734448194961_v2_750x1.png.webp",
+                "licenca": "Fair Use"
+            }
+        ]
     }
 ]
