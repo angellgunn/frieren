@@ -174,6 +174,30 @@
         "imagens": []
     },
     {
+        "titulo": "YOASOBI e 'Yuusha'",
+        "tipo": "Produção",
+        "descricao": "YOASOBI, a dupla musical japonesa formada pelo produtor Ayase e pela vocalista Ikura, é responsável por 'Yuusha' (勇者, 'Herói'), o primeiro tema de abertura do anime. Famosos por transformar textos literários em música, eles basearam a canção em um conto inédito escrito por Jiro Kiso (esse nome pode representar um pseudônimo, não se sabe) sob supervisão de Kanehito Yamada, intitulado 'Sōsō' (奏送). O conto narra eventos cinco anos após a morte de Himmel, estando disponível em japonês no sítio oficial da Toho. A dupla trabalha com uma banda de músicos talentosos. A música foi um grande sucesso, alcançando as primeiras posições no ranking da Billboard Japan e acumulando centenas de milhões de streams e visualizações globalmente, tornando-se um fenômeno musical.",
+        "tags": ["música", "abertura", "yoasobi", "yuusha", "anime"],
+        "relacionados": ["Trilha Sonora de Frieren", "Kanehito Yamada", "Staff e Produção"],
+        "fontes": [
+            {
+                "nome": "Wikipedia (EN) - Yuusha",
+                "url": "https://en.wikipedia.org/wiki/Y%C5%ABsha_(Yoasobi_song)"
+            },
+            {
+                "nome": "Conto 'Sōsō' (JA)",
+                "url": "https://frieren-anime.jp/special/novel/"
+            },
+            {
+                "nome": "Clipe Oficial de 'Yuusha'",
+                "url": "https://youtu.be/OIBODIPC_8Y?si=_8P89eR6d2NC3wcg"
+            }
+        ],
+        "imagens": [
+            { "url": "https://www.billboard-japan.com/scale/news/00000154/154140/650x_image.jpg", "licenca": "Fair Use" }
+        ]
+    },
+    {
         "titulo": "Evan Call",
         "tipo": "Equipe",
         "descricao": "Evan Call (nascido na California em 1988), graduou-se pelo Berklee College of Music na área de composições musicais para cinema. Após mudar-se para o Japão, juntou-se ao grupo <a href='https://en.wikipedia.org/wiki/Elements_Garden'>Elements Garden</a> e começou a compor em 2012, ganhando notoriedade por arranjos grandiosos e música sinfônica impressionante. Antes de 'Frieren', ele compôs para séries como 'Violet Evergarden', 'My Happy Marriage', entre outras. Seu estilo, que combina elementos orquestrais e emotivos, enriquece significativamente a narrativa visual. Ele também participou da composição e arranjos da música 'Anytime Anywhere' de Milet, música de encerramento do anime. Ele ganhou o prêmio de 'Melhor Som e Performance' no Tokyo Anime Award Festival de 2025 pelo seu trabalho em Frieren.",
